@@ -1,0 +1,1826 @@
+date,category,sales,quantity,profit,region
+2020-01-01,Furniture,,9.0,227.59,West
+2020-01-02,Home Decor,,2.0,397.87,North
+2020-01-03,Electronics,272.24,10.0,206.82,Central
+2020-01-04,Electronics,252.99,3.0,-16.38,West
+2020-01-05,Furniture,959.63,2.0,-97.41,East
+2020-01-06,Groceries,994.42,3.0,116.38,East
+2020-01-07,,331.51,7.0,373.8,
+2020-01-08,Furniture,68.2,13.0,327.4,North
+2020-01-09,Home Decor,613.43,13.0,105.06,North
+2020-01-10,Home Decor,688.07,12.0,242.54,North
+2020-01-11,Electronics,871.81,9.0,390.18,North
+2020-01-12,Furniture,931.41,6.0,-44.18,Central
+2020-01-13,Clothing,769.4,5.0,337.77,West
+2020-01-14,Electronics,309.41,2.0,253.88,South
+2020-01-15,Groceries,69.75,9.0,91.93,East
+2020-01-16,Groceries,96.95,8.0,-9.27,North
+2020-01-17,Groceries,480.03,5.0,-84.54,Central
+2020-01-18,Clothing,986.01,13.0,258.04,East
+2020-01-19,Clothing,365.85,5.0,-22.97,North
+2020-01-20,,569.17,,265.85,South
+2020-01-21,Furniture,191.82,2.0,,West
+2020-01-22,Electronics,221.01,3.0,339.63,West
+2020-01-23,Clothing,983.46,9.0,16.98,North
+2020-01-24,,883.66,,355.47,East
+2020-01-25,Groceries,180.39,4.0,36.02,East
+2020-01-26,Electronics,726.29,6.0,265.96,West
+2020-01-27,Home Decor,125.43,9.0,375.03,East
+2020-01-28,Furniture,809.58,,219.43,West
+2020-01-29,Furniture,219.89,4.0,197.62,South
+2020-01-30,Furniture,292.25,11.0,-95.0,West
+2020-01-31,Furniture,902.1,11.0,237.05,Central
+2020-02-01,Clothing,294.3,9.0,149.26,South
+2020-02-02,Home Decor,989.34,14.0,98.61,East
+2020-02-03,Furniture,654.92,9.0,379.63,East
+2020-02-04,Groceries,10.73,,-84.54,South
+2020-02-05,Groceries,697.54,7.0,-60.8,East
+2020-02-06,Groceries,369.19,1.0,-65.99,Central
+2020-02-07,Clothing,316.76,6.0,270.48,South
+2020-02-08,Furniture,566.13,3.0,339.66,South
+2020-02-09,Home Decor,872.76,6.0,41.85,Central
+2020-02-10,Clothing,371.23,3.0,-29.83,North
+2020-02-11,Furniture,24.1,12.0,44.75,North
+2020-02-12,,,7.0,267.75,South
+2020-02-13,Clothing,59.71,8.0,240.79,South
+2020-02-14,Furniture,530.64,13.0,-84.01,East
+2020-02-15,Clothing,360.07,3.0,305.66,Central
+2020-02-16,Home Decor,890.26,13.0,,
+2020-02-17,Clothing,13.39,6.0,-55.03,Central
+2020-02-18,Groceries,751.81,13.0,10.17,South
+2020-02-19,Home Decor,483.51,4.0,193.88,West
+2020-02-20,Electronics,433.06,9.0,-59.73,West
+2020-02-21,Groceries,995.01,2.0,128.13,South
+2020-02-22,Furniture,757.32,9.0,19.81,
+2020-02-23,Furniture,88.15,4.0,70.8,
+2020-02-24,Groceries,667.92,13.0,243.74,East
+2020-02-25,Clothing,141.64,12.0,-37.61,South
+2020-02-26,Furniture,265.66,7.0,116.75,Central
+2020-02-27,Home Decor,785.01,14.0,-4.36,South
+2020-02-28,Groceries,199.46,3.0,397.88,North
+2020-02-29,Groceries,918.47,5.0,132.7,Central
+2020-03-01,Clothing,736.72,12.0,298.22,West
+2020-03-02,Groceries,,2.0,272.8,East
+2020-03-03,Groceries,547.71,3.0,282.28,South
+2020-03-04,Clothing,36.34,12.0,,East
+2020-03-05,Clothing,217.66,13.0,206.16,South
+2020-03-06,Home Decor,494.84,12.0,99.83,West
+2020-03-07,Electronics,549.65,1.0,179.42,West
+2020-03-08,Clothing,109.56,6.0,396.24,
+2020-03-09,Clothing,968.48,9.0,320.27,North
+2020-03-10,Electronics,204.54,12.0,-32.77,North
+2020-03-11,Electronics,,6.0,7.15,North
+2020-03-12,Electronics,536.41,6.0,373.82,South
+2020-03-13,Groceries,751.92,3.0,238.16,Central
+2020-03-14,Groceries,85.01,,-48.83,South
+2020-03-15,Groceries,198.73,1.0,168.6,East
+2020-03-16,Groceries,328.79,12.0,350.97,East
+2020-03-17,Furniture,980.01,14.0,114.72,South
+2020-03-18,Electronics,,10.0,270.84,West
+2020-03-19,Clothing,931.98,7.0,118.49,West
+2020-03-20,Groceries,214.19,4.0,80.15,South
+2020-03-21,Electronics,286.95,12.0,-14.24,North
+2020-03-22,Home Decor,616.0,12.0,262.83,East
+2020-03-23,Groceries,979.0,4.0,-35.69,East
+2020-03-24,Electronics,314.88,2.0,27.36,Central
+2020-03-25,Groceries,43.76,7.0,130.41,South
+2020-03-26,Furniture,926.39,4.0,202.89,East
+2020-03-27,Electronics,,11.0,373.33,North
+2020-03-28,Electronics,284.48,2.0,365.78,West
+2020-03-29,Groceries,531.59,2.0,-37.33,West
+2020-03-30,Home Decor,336.67,12.0,-74.12,East
+2020-03-31,Furniture,622.32,7.0,273.9,South
+2020-04-01,Clothing,666.79,13.0,263.73,East
+2020-04-02,Home Decor,658.45,3.0,-15.27,East
+2020-04-03,Electronics,110.52,5.0,128.72,North
+2020-04-04,Clothing,56.38,12.0,146.26,Central
+2020-04-05,Furniture,837.16,12.0,226.0,Central
+2020-04-06,Clothing,18.06,5.0,-64.26,North
+2020-04-07,Home Decor,65.13,4.0,252.86,East
+2020-04-08,Clothing,746.94,8.0,-86.69,North
+2020-04-09,Electronics,160.18,8.0,291.31,West
+2020-04-10,Electronics,963.89,12.0,77.96,
+2020-04-11,Home Decor,563.9,3.0,,Central
+2020-04-12,Groceries,572.98,12.0,142.58,
+2020-04-13,Groceries,268.34,5.0,89.95,West
+2020-04-14,Groceries,882.42,1.0,362.41,West
+2020-04-15,Groceries,623.05,13.0,100.92,
+2020-04-16,Groceries,399.81,2.0,216.19,North
+2020-04-17,Clothing,18.11,13.0,,East
+2020-04-18,Groceries,205.12,12.0,108.94,Central
+2020-04-19,Furniture,581.57,8.0,372.89,South
+2020-04-20,Home Decor,672.3,8.0,-78.67,West
+2020-04-21,Home Decor,778.12,13.0,155.86,North
+2020-04-22,Clothing,535.47,8.0,290.04,East
+2020-04-23,Furniture,594.23,9.0,213.93,East
+2020-04-24,Home Decor,488.09,13.0,-80.15,East
+2020-04-25,Furniture,950.47,1.0,333.95,South
+2020-04-26,Furniture,737.97,1.0,7.25,South
+2020-04-27,Home Decor,619.09,11.0,259.39,Central
+2020-04-28,Clothing,153.53,4.0,,North
+2020-04-29,Furniture,605.26,9.0,239.49,North
+2020-04-30,Clothing,422.3,3.0,-86.51,West
+2020-05-01,Clothing,405.89,8.0,-92.33,East
+2020-05-02,Electronics,834.29,6.0,195.73,
+2020-05-03,Clothing,12.13,6.0,-51.24,North
+2020-05-04,Electronics,551.21,8.0,181.49,South
+2020-05-05,Furniture,90.96,2.0,-51.82,South
+2020-05-06,Home Decor,590.8,10.0,196.62,West
+2020-05-07,Home Decor,568.74,10.0,175.62,North
+2020-05-08,Furniture,296.91,11.0,,South
+2020-05-09,Groceries,225.01,8.0,339.27,East
+2020-05-10,Electronics,967.27,11.0,353.47,West
+2020-05-11,Furniture,400.61,4.0,211.57,North
+2020-05-12,Home Decor,564.45,1.0,122.83,South
+2020-05-13,Furniture,655.23,2.0,195.85,Central
+2020-05-14,Groceries,82.75,9.0,269.72,North
+2020-05-15,Electronics,,14.0,72.28,Central
+2020-05-16,Groceries,559.7,5.0,191.82,West
+2020-05-17,Electronics,496.39,8.0,132.23,South
+2020-05-18,Home Decor,874.71,3.0,152.2,
+2020-05-19,Electronics,690.6,13.0,233.67,
+2020-05-20,Groceries,688.71,1.0,57.54,Central
+2020-05-21,Clothing,268.84,10.0,399.41,East
+2020-05-22,Furniture,858.68,8.0,-84.46,South
+2020-05-23,Clothing,181.7,1.0,-1.67,Central
+2020-05-24,Groceries,274.43,5.0,-92.41,East
+2020-05-25,Groceries,790.64,,147.65,
+2020-05-26,Clothing,762.08,7.0,226.41,East
+2020-05-27,Furniture,324.78,6.0,299.81,Central
+2020-05-28,Electronics,230.56,2.0,-38.95,East
+2020-05-29,Groceries,841.94,4.0,200.57,West
+2020-05-30,Groceries,432.03,13.0,,Central
+2020-05-31,Electronics,894.34,13.0,170.84,
+2020-06-01,Home Decor,416.13,5.0,276.96,North
+2020-06-02,Clothing,100.8,,,South
+2020-06-03,Groceries,439.38,1.0,-61.01,North
+2020-06-04,Clothing,914.68,8.0,118.96,West
+2020-06-05,Groceries,816.32,3.0,299.27,South
+2020-06-06,Furniture,349.19,8.0,261.9,South
+2020-06-07,Furniture,190.82,12.0,-9.54,North
+2020-06-08,Electronics,68.89,5.0,-40.18,North
+2020-06-09,Groceries,861.29,10.0,-0.57,South
+2020-06-10,Clothing,691.32,12.0,136.8,Central
+2020-06-11,Electronics,70.02,,-58.78,Central
+2020-06-12,Clothing,523.89,9.0,212.0,South
+2020-06-13,Home Decor,890.01,11.0,-85.34,North
+2020-06-14,Home Decor,812.38,4.0,127.64,West
+2020-06-15,Home Decor,363.38,2.0,30.21,East
+2020-06-16,Home Decor,260.73,3.0,72.38,Central
+2020-06-17,Clothing,837.83,14.0,159.51,East
+2020-06-18,Home Decor,94.95,14.0,265.17,West
+2020-06-19,Home Decor,557.49,7.0,25.82,East
+2020-06-20,Groceries,891.34,7.0,375.52,Central
+2020-06-21,Electronics,174.14,8.0,,West
+2020-06-22,Home Decor,998.51,,220.33,East
+2020-06-23,Clothing,480.98,11.0,,East
+2020-06-24,Groceries,894.02,13.0,348.62,South
+2020-06-25,Furniture,696.17,9.0,161.46,North
+2020-06-26,,195.51,5.0,219.11,West
+2020-06-27,Electronics,622.1,13.0,-75.4,East
+2020-06-28,Home Decor,222.9,13.0,,West
+2020-06-29,Electronics,182.32,7.0,205.43,North
+2020-06-30,Clothing,628.11,13.0,178.0,Central
+2020-07-01,Groceries,613.1,9.0,17.31,South
+2020-07-02,Groceries,159.45,,351.47,South
+2020-07-03,Furniture,324.66,1.0,-32.14,
+2020-07-04,Home Decor,707.12,4.0,249.94,West
+2020-07-05,Furniture,643.05,7.0,,Central
+2020-07-06,Home Decor,923.59,14.0,-96.73,North
+2020-07-07,Groceries,73.42,10.0,-37.32,Central
+2020-07-08,Groceries,576.58,1.0,,East
+2020-07-09,Home Decor,803.31,3.0,75.07,West
+2020-07-10,,219.59,1.0,51.47,West
+2020-07-11,Clothing,191.81,5.0,26.65,North
+2020-07-12,Home Decor,155.77,5.0,326.01,East
+2020-07-13,Furniture,802.92,11.0,374.41,Central
+2020-07-14,Electronics,648.39,7.0,67.42,Central
+2020-07-15,Electronics,,9.0,-67.06,North
+2020-07-16,Home Decor,624.89,4.0,160.63,Central
+2020-07-17,Furniture,236.95,3.0,42.1,South
+2020-07-18,Furniture,358.47,6.0,309.66,East
+2020-07-19,Groceries,220.48,14.0,-40.68,North
+2020-07-20,Clothing,28.07,4.0,35.82,East
+2020-07-21,Electronics,758.5,1.0,48.16,Central
+2020-07-22,Groceries,,4.0,219.34,Central
+2020-07-23,Home Decor,685.67,1.0,358.69,South
+2020-07-24,Groceries,944.68,2.0,131.89,East
+2020-07-25,Groceries,609.62,7.0,-21.85,North
+2020-07-26,Furniture,61.41,2.0,-20.43,Central
+2020-07-27,Groceries,560.71,6.0,238.32,Central
+2020-07-28,Groceries,96.55,3.0,-44.53,South
+2020-07-29,Groceries,324.37,7.0,119.15,East
+2020-07-30,Groceries,277.05,11.0,285.02,North
+2020-07-31,Groceries,826.16,14.0,350.9,North
+2020-08-01,Electronics,585.2,8.0,161.08,South
+2020-08-02,Clothing,907.01,13.0,91.78,East
+2020-08-03,Furniture,443.95,2.0,316.17,South
+2020-08-04,Clothing,904.59,7.0,,North
+2020-08-05,Furniture,513.22,7.0,,West
+2020-08-06,,626.28,1.0,258.63,
+2020-08-07,Groceries,794.91,7.0,-72.88,Central
+2020-08-08,Clothing,843.86,,242.58,South
+2020-08-09,Home Decor,478.39,8.0,290.15,South
+2020-08-10,Clothing,37.74,12.0,119.86,North
+2020-08-11,Electronics,758.99,9.0,-48.45,South
+2020-08-12,Home Decor,567.35,3.0,60.7,South
+2020-08-13,Furniture,421.87,14.0,-43.42,North
+2020-08-14,Electronics,861.39,11.0,342.55,West
+2020-08-15,Furniture,352.38,11.0,49.84,South
+2020-08-16,Electronics,,5.0,28.66,East
+2020-08-17,Electronics,899.65,1.0,68.74,South
+2020-08-18,Home Decor,384.08,1.0,-97.65,East
+2020-08-19,Groceries,532.44,3.0,387.92,Central
+2020-08-20,Home Decor,77.27,7.0,88.69,South
+2020-08-21,Clothing,225.51,14.0,-22.09,Central
+2020-08-22,Groceries,374.25,11.0,240.01,East
+2020-08-23,Clothing,468.18,9.0,-22.11,Central
+2020-08-24,Clothing,603.11,3.0,154.12,North
+2020-08-25,Electronics,687.97,11.0,-4.18,South
+2020-08-26,Groceries,457.83,9.0,-55.67,West
+2020-08-27,Furniture,202.95,9.0,-16.7,South
+2020-08-28,Furniture,548.27,1.0,108.57,
+2020-08-29,Groceries,562.56,2.0,373.04,West
+2020-08-30,Groceries,473.53,11.0,-68.99,East
+2020-08-31,Furniture,966.54,,228.91,West
+2020-09-01,Clothing,718.46,10.0,11.43,West
+2020-09-02,Electronics,524.28,10.0,-77.33,East
+2020-09-03,Clothing,,,-36.88,West
+2020-09-04,Furniture,816.21,5.0,249.45,South
+2020-09-05,Electronics,48.93,11.0,218.66,East
+2020-09-06,Home Decor,115.92,3.0,220.88,East
+2020-09-07,Home Decor,244.91,2.0,199.74,West
+2020-09-08,Clothing,53.15,3.0,200.63,Central
+2020-09-09,Groceries,877.25,9.0,313.76,East
+2020-09-10,Home Decor,83.66,7.0,,North
+2020-09-11,Electronics,178.48,8.0,-67.2,South
+2020-09-12,Groceries,744.54,6.0,-70.98,Central
+2020-09-13,Groceries,169.54,6.0,-22.9,West
+2020-09-14,Home Decor,512.41,,-0.54,West
+2020-09-15,Home Decor,648.53,4.0,30.08,North
+2020-09-16,Clothing,959.47,,202.64,Central
+2020-09-17,Home Decor,167.12,13.0,221.41,West
+2020-09-18,Furniture,984.1,1.0,-59.67,Central
+2020-09-19,Groceries,648.4,12.0,-44.82,North
+2020-09-20,Groceries,807.51,1.0,3.57,Central
+2020-09-21,Clothing,936.25,11.0,37.64,South
+2020-09-22,Furniture,643.71,13.0,352.71,North
+2020-09-23,Electronics,261.89,7.0,176.05,North
+2020-09-24,Home Decor,221.32,9.0,99.46,West
+2020-09-25,Clothing,970.4,3.0,,East
+2020-09-26,Clothing,222.57,9.0,,West
+2020-09-27,Clothing,368.14,1.0,92.31,East
+2020-09-28,Electronics,474.02,7.0,392.7,East
+2020-09-29,Electronics,,12.0,-35.15,East
+2020-09-30,Groceries,80.77,2.0,-36.5,Central
+2020-10-01,Home Decor,301.64,13.0,368.69,West
+2020-10-02,Home Decor,970.7,1.0,14.88,West
+2020-10-03,Clothing,893.96,2.0,256.95,East
+2020-10-04,Home Decor,693.41,4.0,-48.49,North
+2020-10-05,Groceries,810.24,5.0,-8.53,East
+2020-10-06,Groceries,390.44,13.0,-32.54,Central
+2020-10-07,Clothing,259.95,4.0,342.52,North
+2020-10-08,Clothing,77.15,8.0,377.57,East
+2020-10-09,Groceries,257.45,2.0,114.58,South
+2020-10-10,Electronics,670.07,11.0,239.23,West
+2020-10-11,Home Decor,751.87,13.0,71.12,East
+2020-10-12,Furniture,76.91,7.0,128.37,North
+2020-10-13,Electronics,750.21,7.0,367.7,West
+2020-10-14,Furniture,208.14,8.0,265.46,North
+2020-10-15,Electronics,563.18,11.0,,North
+2020-10-16,Electronics,265.75,2.0,-37.84,East
+2020-10-17,Home Decor,962.95,12.0,378.71,East
+2020-10-18,Home Decor,610.22,8.0,171.4,North
+2020-10-19,Electronics,533.69,3.0,214.14,West
+2020-10-20,Furniture,,,52.14,West
+2020-10-21,Electronics,364.92,13.0,144.93,Central
+2020-10-22,Groceries,688.23,5.0,254.98,North
+2020-10-23,Groceries,432.92,7.0,-53.05,East
+2020-10-24,Home Decor,834.48,4.0,3.37,East
+2020-10-25,Electronics,379.75,1.0,,Central
+2020-10-26,Clothing,114.69,2.0,340.27,West
+2020-10-27,Clothing,767.79,5.0,135.8,West
+2020-10-28,Clothing,759.06,5.0,187.64,West
+2020-10-29,Home Decor,694.65,14.0,37.61,West
+2020-10-30,Electronics,72.8,4.0,225.61,East
+2020-10-31,Electronics,11.44,10.0,-63.83,East
+2020-11-01,Electronics,418.69,4.0,-9.26,North
+2020-11-02,Groceries,,9.0,174.47,East
+2020-11-03,Home Decor,472.94,3.0,-6.9,North
+2020-11-04,,990.26,10.0,325.07,West
+2020-11-05,Furniture,319.55,11.0,,East
+2020-11-06,Furniture,,5.0,376.6,West
+2020-11-07,Electronics,239.74,9.0,216.61,East
+2020-11-08,Home Decor,469.55,7.0,180.91,Central
+2020-11-09,Home Decor,278.59,9.0,,West
+2020-11-10,Home Decor,944.98,10.0,362.81,West
+2020-11-11,Groceries,564.21,2.0,378.72,North
+2020-11-12,Furniture,766.12,13.0,97.81,North
+2020-11-13,Home Decor,457.36,4.0,-68.13,Central
+2020-11-14,Groceries,424.67,,-63.0,Central
+2020-11-15,Groceries,,2.0,231.85,West
+2020-11-16,Furniture,978.56,13.0,-69.73,
+2020-11-17,Home Decor,233.71,12.0,109.09,South
+2020-11-18,Furniture,482.02,6.0,-90.68,West
+2020-11-19,Furniture,403.9,,-8.48,East
+2020-11-20,Furniture,72.71,14.0,118.23,Central
+2020-11-21,Furniture,601.44,8.0,103.39,Central
+2020-11-22,Electronics,211.54,6.0,-94.7,South
+2020-11-23,Furniture,678.47,2.0,107.06,Central
+2020-11-24,Electronics,440.29,10.0,248.86,South
+2020-11-25,Home Decor,90.42,12.0,344.45,West
+2020-11-26,Clothing,257.83,8.0,-15.34,East
+2020-11-27,Home Decor,182.39,5.0,-81.24,North
+2020-11-28,Electronics,770.46,8.0,11.63,Central
+2020-11-29,Clothing,123.17,6.0,-94.81,South
+2020-11-30,Electronics,153.34,12.0,51.7,North
+2020-12-01,Home Decor,836.52,7.0,166.98,South
+2020-12-02,Home Decor,712.95,6.0,-59.83,South
+2020-12-03,Groceries,451.67,8.0,165.82,North
+2020-12-04,Furniture,453.13,14.0,66.48,South
+2020-12-05,Groceries,947.4,2.0,193.6,South
+2020-12-06,,208.66,3.0,95.57,South
+2020-12-07,Furniture,178.72,1.0,-56.8,
+2020-12-08,,28.22,9.0,157.85,West
+2020-12-09,Groceries,186.11,12.0,-46.45,East
+2020-12-10,Furniture,169.73,14.0,-55.37,North
+2020-12-11,Groceries,,12.0,10.25,East
+2020-12-12,Furniture,,9.0,314.08,West
+2020-12-13,Clothing,880.78,6.0,141.23,North
+2020-12-14,Electronics,509.36,6.0,363.99,East
+2020-12-15,Electronics,838.47,11.0,308.89,
+2020-12-16,Home Decor,438.42,7.0,,North
+2020-12-17,Groceries,340.26,3.0,308.78,North
+2020-12-18,Furniture,478.9,1.0,44.75,South
+2020-12-19,Furniture,149.79,1.0,152.58,Central
+2020-12-20,Furniture,582.59,13.0,-72.41,North
+2020-12-21,Home Decor,,3.0,23.45,North
+2020-12-22,Electronics,233.17,12.0,41.17,
+2020-12-23,Clothing,184.32,1.0,62.79,West
+2020-12-24,Groceries,512.98,11.0,332.78,East
+2020-12-25,Electronics,37.58,14.0,,South
+2020-12-26,Electronics,629.45,3.0,7.75,Central
+2020-12-27,Home Decor,902.92,5.0,304.15,North
+2020-12-28,Clothing,398.56,9.0,84.51,North
+2020-12-29,Electronics,534.83,10.0,241.57,
+2020-12-30,,898.15,3.0,394.53,South
+2020-12-31,Electronics,879.54,3.0,-87.63,West
+2021-01-01,Electronics,900.08,6.0,239.02,East
+2021-01-02,Furniture,325.02,2.0,-23.06,North
+2021-01-03,Home Decor,429.01,,23.09,South
+2021-01-04,Furniture,912.41,8.0,85.03,Central
+2021-01-05,Furniture,917.56,10.0,61.22,West
+2021-01-06,Groceries,101.13,4.0,-34.11,West
+2021-01-07,Clothing,813.98,11.0,-80.47,South
+2021-01-08,Furniture,898.09,8.0,-65.57,Central
+2021-01-09,,665.98,9.0,39.63,North
+2021-01-10,Home Decor,66.62,7.0,,South
+2021-01-11,Clothing,757.56,12.0,154.43,South
+2021-01-12,Home Decor,717.49,4.0,392.38,South
+2021-01-13,Furniture,,,296.53,North
+2021-01-14,Home Decor,704.39,14.0,193.81,East
+2021-01-15,Groceries,336.7,7.0,222.22,Central
+2021-01-16,Furniture,,9.0,8.98,South
+2021-01-17,Clothing,599.35,8.0,306.63,East
+2021-01-18,Home Decor,549.56,7.0,317.99,East
+2021-01-19,Home Decor,136.87,9.0,26.31,South
+2021-01-20,Electronics,377.81,11.0,4.08,North
+2021-01-21,Electronics,438.36,3.0,159.4,South
+2021-01-22,Electronics,838.67,7.0,-97.49,East
+2021-01-23,Groceries,990.85,3.0,385.58,West
+2021-01-24,Electronics,678.45,2.0,130.54,West
+2021-01-25,Groceries,91.51,10.0,212.55,North
+2021-01-26,,636.85,6.0,92.53,North
+2021-01-27,Furniture,753.13,3.0,188.3,South
+2021-01-28,Electronics,226.76,13.0,296.85,North
+2021-01-29,Electronics,915.84,10.0,-22.61,South
+2021-01-30,Electronics,504.86,,-66.94,West
+2021-01-31,Clothing,890.38,13.0,104.65,West
+2021-02-01,Electronics,156.65,10.0,293.93,East
+2021-02-02,Home Decor,191.9,10.0,32.44,Central
+2021-02-03,Home Decor,408.76,13.0,189.87,West
+2021-02-04,,840.56,10.0,61.17,West
+2021-02-05,Groceries,814.63,1.0,346.1,
+2021-02-06,Home Decor,575.0,14.0,113.17,South
+2021-02-07,Electronics,968.73,5.0,-86.35,West
+2021-02-08,Home Decor,158.8,6.0,-73.85,
+2021-02-09,Home Decor,96.3,14.0,238.3,North
+2021-02-10,Electronics,904.85,14.0,220.98,West
+2021-02-11,Home Decor,637.52,6.0,175.99,East
+2021-02-12,Electronics,204.64,9.0,238.85,South
+2021-02-13,Furniture,220.47,8.0,189.55,North
+2021-02-14,,269.94,10.0,174.77,West
+2021-02-15,,397.47,3.0,247.96,North
+2021-02-16,Furniture,800.59,14.0,291.11,West
+2021-02-17,Clothing,962.79,1.0,121.73,
+2021-02-18,Home Decor,417.43,,164.83,North
+2021-02-19,Electronics,953.69,2.0,-44.72,South
+2021-02-20,Groceries,897.84,3.0,121.9,East
+2021-02-21,Clothing,275.41,12.0,288.5,South
+2021-02-22,Electronics,177.54,10.0,103.97,Central
+2021-02-23,Groceries,338.11,12.0,96.24,West
+2021-02-24,Clothing,930.72,11.0,133.27,Central
+2021-02-25,Groceries,381.69,2.0,45.03,South
+2021-02-26,Furniture,56.69,9.0,-59.0,Central
+2021-02-27,Clothing,647.14,4.0,228.04,South
+2021-02-28,Home Decor,278.14,12.0,113.89,East
+2021-03-01,Home Decor,98.32,10.0,291.08,West
+2021-03-02,Electronics,59.38,5.0,180.23,South
+2021-03-03,Groceries,458.13,4.0,257.51,South
+2021-03-04,Clothing,823.35,7.0,40.04,West
+2021-03-05,Home Decor,211.74,13.0,-91.22,North
+2021-03-06,Furniture,517.74,14.0,208.68,Central
+2021-03-07,Clothing,825.65,7.0,271.56,East
+2021-03-08,Home Decor,759.06,7.0,309.23,North
+2021-03-09,Electronics,647.38,12.0,-98.84,South
+2021-03-10,Furniture,472.64,6.0,,East
+2021-03-11,Furniture,14.0,14.0,192.07,Central
+2021-03-12,Groceries,971.27,4.0,299.51,West
+2021-03-13,Furniture,196.61,5.0,17.04,North
+2021-03-14,Electronics,982.77,3.0,-51.62,South
+2021-03-15,Groceries,381.58,9.0,181.77,West
+2021-03-16,Electronics,825.61,5.0,272.38,Central
+2021-03-17,Home Decor,185.9,10.0,149.56,South
+2021-03-18,Groceries,514.24,8.0,339.09,East
+2021-03-19,Groceries,66.0,1.0,82.19,West
+2021-03-20,Groceries,807.59,11.0,-56.57,North
+2021-03-21,Clothing,394.18,10.0,87.04,West
+2021-03-22,Home Decor,120.04,10.0,-57.16,South
+2021-03-23,Clothing,201.6,4.0,354.97,South
+2021-03-24,Furniture,574.16,11.0,139.24,South
+2021-03-25,Groceries,742.87,14.0,,West
+2021-03-26,Groceries,343.82,6.0,-99.98,North
+2021-03-27,Furniture,987.01,5.0,125.53,North
+2021-03-28,Home Decor,275.46,14.0,1.99,East
+2021-03-29,Groceries,687.65,10.0,-16.69,South
+2021-03-30,Furniture,235.04,10.0,265.24,West
+2021-03-31,Groceries,40.98,7.0,-34.35,North
+2021-04-01,Furniture,793.38,2.0,25.47,South
+2021-04-02,Clothing,21.54,3.0,24.63,Central
+2021-04-03,Furniture,228.01,9.0,-24.91,North
+2021-04-04,Clothing,551.67,7.0,113.16,Central
+2021-04-05,Home Decor,776.69,14.0,349.52,
+2021-04-06,Groceries,779.06,6.0,333.38,East
+2021-04-07,Home Decor,435.59,2.0,299.31,North
+2021-04-08,Electronics,309.55,4.0,-52.96,West
+2021-04-09,Furniture,874.87,11.0,99.07,West
+2021-04-10,Home Decor,65.06,9.0,6.53,North
+2021-04-11,Clothing,172.98,10.0,251.09,Central
+2021-04-12,Home Decor,707.92,14.0,135.16,West
+2021-04-13,Clothing,515.35,7.0,188.36,West
+2021-04-14,Home Decor,570.7,,247.34,East
+2021-04-15,Home Decor,605.53,5.0,173.07,South
+2021-04-16,Clothing,153.42,14.0,326.47,West
+2021-04-17,Furniture,903.73,14.0,356.17,Central
+2021-04-18,Furniture,720.27,4.0,177.77,South
+2021-04-19,Furniture,756.91,7.0,112.17,
+2021-04-20,Clothing,689.65,8.0,182.42,
+2021-04-21,Furniture,970.72,12.0,80.0,West
+2021-04-22,Home Decor,356.42,7.0,-68.39,West
+2021-04-23,Electronics,16.14,14.0,173.95,East
+2021-04-24,Electronics,746.34,8.0,43.58,North
+2021-04-25,Furniture,893.41,12.0,47.27,West
+2021-04-26,Furniture,859.06,6.0,-48.17,North
+2021-04-27,Home Decor,331.58,5.0,109.48,East
+2021-04-28,Home Decor,647.81,5.0,45.55,East
+2021-04-29,Home Decor,693.63,14.0,233.61,Central
+2021-04-30,Clothing,45.67,12.0,311.65,Central
+2021-05-01,Furniture,184.42,1.0,-49.48,West
+2021-05-02,Furniture,,7.0,-82.83,South
+2021-05-03,Furniture,172.58,13.0,,West
+2021-05-04,,551.13,2.0,-28.11,Central
+2021-05-05,Clothing,223.39,4.0,-10.13,East
+2021-05-06,Home Decor,963.11,,-48.68,Central
+2021-05-07,Furniture,476.28,6.0,198.85,
+2021-05-08,Home Decor,984.81,6.0,79.12,West
+2021-05-09,Groceries,188.28,12.0,85.1,Central
+2021-05-10,Groceries,608.85,7.0,,North
+2021-05-11,Home Decor,840.57,1.0,3.94,North
+2021-05-12,Clothing,355.96,2.0,246.54,North
+2021-05-13,Home Decor,767.61,3.0,389.03,North
+2021-05-14,Home Decor,834.37,14.0,-10.97,West
+2021-05-15,Clothing,238.98,1.0,237.12,Central
+2021-05-16,Electronics,513.33,13.0,162.26,South
+2021-05-17,Furniture,766.03,2.0,185.99,South
+2021-05-18,Groceries,588.16,1.0,212.48,East
+2021-05-19,Electronics,885.12,12.0,,West
+2021-05-20,Electronics,902.52,1.0,-48.27,East
+2021-05-21,Furniture,817.17,11.0,359.55,East
+2021-05-22,Furniture,167.73,5.0,-61.32,East
+2021-05-23,,224.97,2.0,349.8,East
+2021-05-24,Groceries,481.75,4.0,91.1,South
+2021-05-25,Home Decor,623.98,11.0,91.9,South
+2021-05-26,Furniture,,2.0,-8.46,West
+2021-05-27,Groceries,76.47,5.0,247.55,West
+2021-05-28,Electronics,,2.0,208.06,South
+2021-05-29,Electronics,372.77,11.0,186.01,North
+2021-05-30,Furniture,187.3,8.0,348.46,South
+2021-05-31,Furniture,917.92,2.0,,West
+2021-06-01,Electronics,292.39,9.0,380.96,
+2021-06-02,Groceries,633.81,4.0,182.75,
+2021-06-03,Groceries,782.58,12.0,176.25,North
+2021-06-04,Home Decor,240.48,14.0,75.6,South
+2021-06-05,Electronics,367.34,14.0,-99.13,East
+2021-06-06,Clothing,837.23,2.0,132.89,North
+2021-06-07,Electronics,871.75,,-45.64,South
+2021-06-08,Electronics,392.13,4.0,362.79,Central
+2021-06-09,Furniture,493.89,14.0,180.51,West
+2021-06-10,Furniture,880.28,,-92.49,South
+2021-06-11,Groceries,987.79,5.0,304.78,Central
+2021-06-12,Groceries,255.53,13.0,374.76,Central
+2021-06-13,Furniture,521.02,1.0,319.78,South
+2021-06-14,Clothing,477.14,4.0,355.49,East
+2021-06-15,Clothing,745.67,2.0,230.17,East
+2021-06-16,Groceries,619.58,1.0,-36.98,East
+2021-06-17,Home Decor,217.28,3.0,7.15,West
+2021-06-18,Clothing,333.17,14.0,311.05,North
+2021-06-19,Furniture,979.85,,179.99,East
+2021-06-20,Electronics,960.74,9.0,274.79,West
+2021-06-21,Clothing,127.59,11.0,384.64,Central
+2021-06-22,Groceries,716.78,1.0,246.22,Central
+2021-06-23,Home Decor,792.26,13.0,-1.55,
+2021-06-24,Groceries,,13.0,291.15,North
+2021-06-25,Groceries,46.58,10.0,291.45,West
+2021-06-26,,462.27,11.0,227.93,East
+2021-06-27,Groceries,231.68,9.0,78.09,Central
+2021-06-28,Furniture,433.19,13.0,29.57,North
+2021-06-29,Clothing,533.95,7.0,273.16,West
+2021-06-30,Electronics,596.15,7.0,-75.09,East
+2021-07-01,Furniture,56.74,4.0,274.31,
+2021-07-02,Groceries,748.21,13.0,49.22,Central
+2021-07-03,Groceries,573.91,11.0,134.0,
+2021-07-04,Furniture,948.63,8.0,9.04,Central
+2021-07-05,Furniture,412.36,2.0,,North
+2021-07-06,Home Decor,482.53,14.0,331.81,South
+2021-07-07,Groceries,675.67,6.0,135.18,
+2021-07-08,Furniture,177.31,8.0,12.52,West
+2021-07-09,Home Decor,196.94,13.0,182.4,West
+2021-07-10,Electronics,562.07,13.0,340.85,South
+2021-07-11,,129.3,11.0,332.25,Central
+2021-07-12,Groceries,513.58,12.0,263.12,Central
+2021-07-13,Electronics,907.58,8.0,-21.11,West
+2021-07-14,Furniture,959.61,10.0,274.43,South
+2021-07-15,Clothing,418.29,13.0,165.85,North
+2021-07-16,,115.28,13.0,221.93,
+2021-07-17,Furniture,458.4,8.0,179.77,East
+2021-07-18,Electronics,396.78,8.0,-40.43,East
+2021-07-19,Electronics,983.68,12.0,169.96,South
+2021-07-20,,24.12,2.0,-48.93,North
+2021-07-21,Furniture,244.93,8.0,-61.26,South
+2021-07-22,Furniture,,5.0,-66.79,East
+2021-07-23,Electronics,789.5,11.0,320.11,West
+2021-07-24,Clothing,573.7,5.0,281.02,South
+2021-07-25,Clothing,873.64,,372.53,North
+2021-07-26,Clothing,779.05,1.0,,Central
+2021-07-27,Clothing,449.49,9.0,-91.88,South
+2021-07-28,Home Decor,661.81,5.0,87.13,East
+2021-07-29,Home Decor,,1.0,-87.63,East
+2021-07-30,Home Decor,745.98,7.0,297.62,West
+2021-07-31,Clothing,784.17,,,Central
+2021-08-01,Groceries,473.45,12.0,-3.86,East
+2021-08-02,Clothing,835.59,2.0,-11.9,North
+2021-08-03,Furniture,315.7,4.0,-52.7,North
+2021-08-04,Furniture,689.91,8.0,181.51,East
+2021-08-05,Home Decor,415.29,12.0,134.12,Central
+2021-08-06,Groceries,383.67,1.0,183.52,North
+2021-08-07,Furniture,683.46,13.0,373.3,
+2021-08-08,Home Decor,951.13,14.0,319.72,East
+2021-08-09,Home Decor,819.47,5.0,311.04,North
+2021-08-10,Home Decor,211.55,11.0,296.48,West
+2021-08-11,Clothing,135.96,,139.99,North
+2021-08-12,,415.4,3.0,237.53,Central
+2021-08-13,Furniture,788.57,1.0,280.95,Central
+2021-08-14,Electronics,688.05,12.0,87.42,North
+2021-08-15,,295.19,12.0,117.49,
+2021-08-16,,652.56,7.0,9.27,North
+2021-08-17,Electronics,194.61,10.0,126.08,South
+2021-08-18,Clothing,789.89,5.0,56.98,North
+2021-08-19,Electronics,344.94,11.0,267.82,West
+2021-08-20,Electronics,445.1,4.0,-8.19,West
+2021-08-21,Electronics,149.33,7.0,111.1,North
+2021-08-22,Furniture,357.35,4.0,-27.46,Central
+2021-08-23,Electronics,,1.0,263.11,East
+2021-08-24,Groceries,371.07,11.0,6.54,Central
+2021-08-25,Groceries,22.62,6.0,347.05,
+2021-08-26,Clothing,492.42,3.0,300.76,North
+2021-08-27,Furniture,216.39,12.0,,South
+2021-08-28,Home Decor,770.96,4.0,62.09,South
+2021-08-29,Groceries,751.3,1.0,7.48,Central
+2021-08-30,Groceries,135.34,14.0,64.44,Central
+2021-08-31,Furniture,253.73,12.0,388.98,Central
+2021-09-01,Home Decor,595.24,8.0,379.69,West
+2021-09-02,Furniture,659.29,11.0,237.79,South
+2021-09-03,Home Decor,361.62,3.0,213.56,South
+2021-09-04,Furniture,415.84,6.0,205.91,South
+2021-09-05,Groceries,104.5,7.0,70.54,South
+2021-09-06,Furniture,128.75,7.0,361.81,East
+2021-09-07,,402.85,11.0,136.48,North
+2021-09-08,Home Decor,635.65,6.0,388.66,North
+2021-09-09,Clothing,794.14,6.0,191.5,East
+2021-09-10,Furniture,953.83,10.0,128.84,North
+2021-09-11,Electronics,850.76,1.0,268.9,Central
+2021-09-12,Groceries,229.85,11.0,213.09,South
+2021-09-13,Home Decor,647.42,,31.05,West
+2021-09-14,Groceries,916.21,3.0,302.31,West
+2021-09-15,Groceries,108.48,3.0,180.43,
+2021-09-16,Clothing,490.62,12.0,286.93,West
+2021-09-17,Groceries,404.93,6.0,304.74,South
+2021-09-18,Furniture,898.64,14.0,,Central
+2021-09-19,Electronics,191.28,7.0,278.0,North
+2021-09-20,Groceries,,2.0,288.88,Central
+2021-09-21,Groceries,,6.0,249.69,West
+2021-09-22,Home Decor,543.63,6.0,179.9,East
+2021-09-23,Groceries,108.27,,347.08,South
+2021-09-24,Furniture,943.93,9.0,202.04,South
+2021-09-25,Home Decor,813.73,9.0,17.81,West
+2021-09-26,Groceries,857.94,9.0,312.83,West
+2021-09-27,Groceries,756.64,9.0,360.96,North
+2021-09-28,Groceries,11.61,5.0,178.44,East
+2021-09-29,Furniture,170.22,11.0,348.53,South
+2021-09-30,Furniture,508.72,12.0,-22.2,Central
+2021-10-01,Clothing,519.05,3.0,320.96,North
+2021-10-02,,904.55,6.0,-20.39,Central
+2021-10-03,Groceries,232.33,,281.1,East
+2021-10-04,Clothing,536.22,11.0,37.03,East
+2021-10-05,Furniture,265.95,5.0,242.91,Central
+2021-10-06,Electronics,703.92,,177.68,East
+2021-10-07,Furniture,914.54,12.0,315.57,West
+2021-10-08,Furniture,380.25,12.0,86.72,South
+2021-10-09,Groceries,87.73,14.0,116.92,Central
+2021-10-10,Electronics,280.74,14.0,177.05,North
+2021-10-11,Groceries,186.37,3.0,208.24,East
+2021-10-12,Electronics,351.53,11.0,-94.56,East
+2021-10-13,Home Decor,540.07,1.0,-3.85,North
+2021-10-14,Clothing,43.05,3.0,177.04,Central
+2021-10-15,Home Decor,998.43,3.0,171.51,North
+2021-10-16,Home Decor,412.96,10.0,397.16,West
+2021-10-17,Clothing,350.64,13.0,,Central
+2021-10-18,Electronics,,6.0,39.23,West
+2021-10-19,Home Decor,511.47,9.0,73.36,North
+2021-10-20,Clothing,302.21,2.0,178.48,Central
+2021-10-21,Groceries,952.07,11.0,-2.32,South
+2021-10-22,Home Decor,581.65,10.0,,East
+2021-10-23,Home Decor,416.99,8.0,258.65,East
+2021-10-24,Furniture,34.22,8.0,-23.0,Central
+2021-10-25,Furniture,150.9,3.0,385.24,East
+2021-10-26,Clothing,371.02,12.0,-49.87,West
+2021-10-27,Furniture,91.44,14.0,284.11,East
+2021-10-28,Clothing,734.85,9.0,361.47,Central
+2021-10-29,Electronics,980.04,13.0,-25.85,East
+2021-10-30,Furniture,874.19,,216.8,Central
+2021-10-31,Clothing,923.32,11.0,226.19,North
+2021-11-01,Electronics,863.17,9.0,-5.55,Central
+2021-11-02,Groceries,622.06,8.0,355.3,Central
+2021-11-03,Clothing,173.77,10.0,224.13,North
+2021-11-04,Furniture,580.21,12.0,101.49,West
+2021-11-05,Groceries,,3.0,228.03,Central
+2021-11-06,Home Decor,627.24,7.0,176.9,West
+2021-11-07,Groceries,489.68,3.0,105.58,East
+2021-11-08,Furniture,132.08,7.0,374.98,West
+2021-11-09,Electronics,255.9,2.0,197.87,Central
+2021-11-10,Furniture,,14.0,106.69,West
+2021-11-11,Clothing,59.17,8.0,10.28,West
+2021-11-12,Home Decor,954.32,13.0,-49.09,North
+2021-11-13,Home Decor,868.8,8.0,121.95,North
+2021-11-14,Groceries,989.59,7.0,-51.37,West
+2021-11-15,Clothing,429.67,3.0,-57.67,East
+2021-11-16,Furniture,548.82,4.0,311.04,North
+2021-11-17,Home Decor,689.1,7.0,330.85,West
+2021-11-18,Home Decor,687.8,1.0,128.36,East
+2021-11-19,Home Decor,253.56,,177.95,West
+2021-11-20,Electronics,671.32,14.0,81.28,East
+2021-11-21,Groceries,995.04,6.0,36.2,East
+2021-11-22,Electronics,69.22,9.0,-17.02,Central
+2021-11-23,Furniture,252.4,9.0,-35.63,West
+2021-11-24,Furniture,393.48,8.0,316.01,East
+2021-11-25,Clothing,196.37,6.0,-6.17,South
+2021-11-26,Electronics,11.71,13.0,217.03,North
+2021-11-27,Groceries,22.54,11.0,382.16,West
+2021-11-28,Home Decor,298.63,5.0,-97.61,North
+2021-11-29,Electronics,591.52,2.0,9.37,North
+2021-11-30,Furniture,366.52,3.0,168.22,North
+2021-12-01,Home Decor,950.95,12.0,171.81,East
+2021-12-02,Clothing,88.24,2.0,353.37,South
+2021-12-03,Clothing,362.41,8.0,235.47,West
+2021-12-04,Home Decor,464.38,7.0,96.85,Central
+2021-12-05,Furniture,228.76,14.0,21.13,Central
+2021-12-06,Furniture,608.81,8.0,267.31,South
+2021-12-07,Home Decor,165.67,5.0,296.53,West
+2021-12-08,Home Decor,917.16,8.0,276.08,Central
+2021-12-09,Electronics,944.57,3.0,152.6,East
+2021-12-10,,648.73,4.0,107.98,West
+2021-12-11,Groceries,528.82,4.0,236.83,East
+2021-12-12,Furniture,24.55,9.0,-58.41,North
+2021-12-13,Furniture,962.39,5.0,7.28,North
+2021-12-14,Clothing,620.02,5.0,,North
+2021-12-15,Home Decor,361.73,2.0,382.5,East
+2021-12-16,Home Decor,596.91,3.0,41.2,West
+2021-12-17,Home Decor,100.37,3.0,197.91,Central
+2021-12-18,Furniture,910.39,12.0,272.24,South
+2021-12-19,Electronics,196.91,10.0,131.98,West
+2021-12-20,Groceries,347.65,12.0,196.35,West
+2021-12-21,Electronics,85.64,2.0,-17.68,North
+2021-12-22,Home Decor,476.21,10.0,-66.62,South
+2021-12-23,Home Decor,664.13,3.0,-71.32,East
+2021-12-24,Clothing,646.42,6.0,289.04,
+2021-12-25,Groceries,452.06,3.0,-34.8,South
+2021-12-26,Electronics,437.32,7.0,399.96,West
+2021-12-27,Electronics,558.6,7.0,-65.16,East
+2021-12-28,Home Decor,48.3,4.0,167.58,East
+2021-12-29,Clothing,629.89,14.0,-2.71,North
+2021-12-30,Electronics,912.86,10.0,142.46,East
+2021-12-31,Groceries,59.26,6.0,46.22,North
+2022-01-01,Clothing,114.0,14.0,141.87,South
+2022-01-02,Groceries,628.17,9.0,67.86,West
+2022-01-03,Groceries,390.94,1.0,,South
+2022-01-04,Electronics,784.56,7.0,397.76,South
+2022-01-05,Clothing,613.03,9.0,84.47,North
+2022-01-06,,416.82,10.0,85.28,North
+2022-01-07,Groceries,319.48,3.0,352.23,East
+2022-01-08,Home Decor,536.52,2.0,172.21,West
+2022-01-09,Home Decor,959.06,9.0,277.07,South
+2022-01-10,,931.69,2.0,323.18,South
+2022-01-11,Electronics,190.65,6.0,-32.76,East
+2022-01-12,Groceries,354.53,9.0,394.51,West
+2022-01-13,Electronics,445.17,5.0,323.86,North
+2022-01-14,Home Decor,89.82,8.0,56.25,East
+2022-01-15,Electronics,978.14,10.0,79.36,North
+2022-01-16,Electronics,397.82,3.0,-58.4,Central
+2022-01-17,Furniture,263.92,7.0,,South
+2022-01-18,Electronics,109.31,8.0,15.25,South
+2022-01-19,Home Decor,360.75,10.0,15.29,West
+2022-01-20,Clothing,509.01,7.0,47.13,West
+2022-01-21,Home Decor,76.53,12.0,207.48,
+2022-01-22,Clothing,558.98,6.0,262.11,North
+2022-01-23,Home Decor,198.52,8.0,,West
+2022-01-24,Groceries,61.27,11.0,57.07,West
+2022-01-25,Furniture,527.39,6.0,29.69,West
+2022-01-26,Home Decor,440.77,14.0,364.82,West
+2022-01-27,Clothing,35.99,7.0,-6.03,South
+2022-01-28,Electronics,388.1,13.0,,North
+2022-01-29,Clothing,68.68,8.0,249.21,South
+2022-01-30,Furniture,983.45,12.0,376.43,North
+2022-01-31,Groceries,,12.0,-21.56,North
+2022-02-01,Electronics,634.25,13.0,165.98,Central
+2022-02-02,Groceries,487.46,2.0,13.55,West
+2022-02-03,,866.21,10.0,21.81,East
+2022-02-04,Groceries,875.66,4.0,-72.03,West
+2022-02-05,Clothing,421.37,10.0,-70.15,East
+2022-02-06,Electronics,109.56,2.0,-62.24,North
+2022-02-07,Groceries,801.77,6.0,330.34,North
+2022-02-08,Groceries,365.91,1.0,372.82,Central
+2022-02-09,Clothing,338.35,8.0,19.96,Central
+2022-02-10,Clothing,45.68,1.0,-66.34,
+2022-02-11,Clothing,741.1,12.0,399.1,North
+2022-02-12,Clothing,74.37,5.0,198.82,West
+2022-02-13,Electronics,462.38,,-31.23,South
+2022-02-14,Furniture,122.08,13.0,209.84,East
+2022-02-15,Furniture,592.4,10.0,226.98,North
+2022-02-16,Clothing,619.04,8.0,143.46,West
+2022-02-17,Furniture,934.02,12.0,-62.79,North
+2022-02-18,Groceries,948.3,13.0,7.02,East
+2022-02-19,Home Decor,696.81,12.0,74.23,North
+2022-02-20,Furniture,,1.0,254.18,East
+2022-02-21,Furniture,993.31,6.0,-44.08,West
+2022-02-22,Groceries,,14.0,-66.76,West
+2022-02-23,Clothing,301.18,9.0,171.65,North
+2022-02-24,Groceries,,1.0,49.51,South
+2022-02-25,Electronics,784.19,,33.76,West
+2022-02-26,Groceries,648.96,6.0,-64.53,Central
+2022-02-27,,776.32,12.0,110.47,West
+2022-02-28,Electronics,884.13,9.0,381.4,West
+2022-03-01,Clothing,314.06,,106.18,Central
+2022-03-02,Home Decor,27.91,13.0,241.57,West
+2022-03-03,Clothing,930.5,5.0,198.15,Central
+2022-03-04,Electronics,463.96,13.0,278.58,
+2022-03-05,,377.52,4.0,56.5,South
+2022-03-06,Electronics,94.01,8.0,386.53,West
+2022-03-07,Groceries,869.66,1.0,147.28,East
+2022-03-08,Clothing,290.45,3.0,330.69,East
+2022-03-09,Clothing,808.66,1.0,383.81,East
+2022-03-10,,459.2,6.0,143.36,South
+2022-03-11,Home Decor,426.33,3.0,,Central
+2022-03-12,Electronics,141.95,10.0,290.57,East
+2022-03-13,Clothing,900.87,3.0,356.46,West
+2022-03-14,Home Decor,,1.0,-37.23,Central
+2022-03-15,Electronics,220.93,10.0,88.15,South
+2022-03-16,Clothing,715.16,6.0,366.52,Central
+2022-03-17,Furniture,863.99,14.0,223.72,East
+2022-03-18,Home Decor,652.22,1.0,159.47,North
+2022-03-19,Clothing,524.63,9.0,321.6,East
+2022-03-20,Electronics,95.28,5.0,331.52,North
+2022-03-21,Furniture,966.04,12.0,154.75,North
+2022-03-22,Clothing,256.61,9.0,389.97,South
+2022-03-23,Electronics,382.1,3.0,312.44,North
+2022-03-24,Clothing,803.36,1.0,17.76,Central
+2022-03-25,Groceries,724.4,5.0,305.43,West
+2022-03-26,Clothing,129.25,5.0,80.02,East
+2022-03-27,Groceries,546.19,6.0,53.94,East
+2022-03-28,Clothing,35.36,4.0,318.15,West
+2022-03-29,,757.22,7.0,365.27,Central
+2022-03-30,Groceries,216.95,3.0,-39.73,
+2022-03-31,Electronics,241.51,11.0,349.7,North
+2022-04-01,Furniture,643.15,5.0,38.96,Central
+2022-04-02,Home Decor,667.64,5.0,332.39,East
+2022-04-03,Home Decor,694.21,5.0,231.51,North
+2022-04-04,,,13.0,386.69,Central
+2022-04-05,Electronics,728.68,8.0,190.3,North
+2022-04-06,Furniture,74.3,11.0,266.05,South
+2022-04-07,,697.3,12.0,381.48,East
+2022-04-08,Groceries,70.18,12.0,309.1,East
+2022-04-09,Groceries,348.91,14.0,313.95,East
+2022-04-10,,918.75,7.0,291.12,East
+2022-04-11,Electronics,344.02,8.0,-10.28,Central
+2022-04-12,Furniture,997.42,5.0,51.43,
+2022-04-13,Clothing,35.27,2.0,104.91,South
+2022-04-14,Home Decor,844.92,10.0,-85.2,East
+2022-04-15,Home Decor,12.69,2.0,285.88,North
+2022-04-16,Groceries,947.72,7.0,363.94,North
+2022-04-17,Groceries,751.66,14.0,104.69,Central
+2022-04-18,Home Decor,461.54,4.0,121.95,West
+2022-04-19,Clothing,954.0,9.0,39.94,East
+2022-04-20,,74.22,3.0,219.86,East
+2022-04-21,Electronics,116.83,2.0,243.9,South
+2022-04-22,,319.75,7.0,62.13,North
+2022-04-23,Furniture,544.12,5.0,38.14,East
+2022-04-24,Furniture,121.64,3.0,-3.19,Central
+2022-04-25,,370.95,1.0,-0.01,Central
+2022-04-26,Furniture,909.17,4.0,146.59,Central
+2022-04-27,Home Decor,516.68,1.0,173.09,East
+2022-04-28,,122.05,14.0,14.07,North
+2022-04-29,Groceries,816.41,2.0,399.82,South
+2022-04-30,Home Decor,114.28,4.0,337.56,Central
+2022-05-01,Home Decor,75.22,13.0,99.41,East
+2022-05-02,Electronics,453.47,8.0,-42.64,West
+2022-05-03,Clothing,880.93,,176.43,South
+2022-05-04,Electronics,30.76,8.0,-4.62,Central
+2022-05-05,Groceries,270.23,14.0,343.41,North
+2022-05-06,Home Decor,509.94,13.0,230.14,West
+2022-05-07,Furniture,184.99,1.0,,South
+2022-05-08,Electronics,168.04,4.0,205.91,South
+2022-05-09,Home Decor,396.47,7.0,329.3,East
+2022-05-10,Furniture,908.71,7.0,188.53,South
+2022-05-11,Home Decor,677.88,2.0,-79.0,South
+2022-05-12,Clothing,728.27,,97.86,West
+2022-05-13,Furniture,742.8,8.0,304.22,West
+2022-05-14,Electronics,905.99,,191.5,Central
+2022-05-15,Groceries,322.5,9.0,57.21,North
+2022-05-16,Furniture,,4.0,-92.05,
+2022-05-17,Electronics,440.1,11.0,-56.76,Central
+2022-05-18,Electronics,883.07,9.0,321.39,East
+2022-05-19,Home Decor,35.53,2.0,348.91,East
+2022-05-20,Home Decor,480.63,4.0,181.92,West
+2022-05-21,Home Decor,110.19,11.0,-0.27,Central
+2022-05-22,Home Decor,184.72,11.0,91.04,South
+2022-05-23,Electronics,853.6,6.0,52.07,Central
+2022-05-24,Furniture,88.73,11.0,185.41,North
+2022-05-25,Groceries,575.89,8.0,-98.72,East
+2022-05-26,Electronics,884.56,8.0,138.31,North
+2022-05-27,Home Decor,535.86,7.0,-39.05,North
+2022-05-28,Clothing,994.24,11.0,140.56,West
+2022-05-29,Furniture,802.2,3.0,13.29,South
+2022-05-30,Home Decor,,3.0,150.06,East
+2022-05-31,Furniture,150.52,4.0,-58.57,Central
+2022-06-01,Electronics,586.21,2.0,222.12,North
+2022-06-02,Electronics,417.44,3.0,75.56,Central
+2022-06-03,Furniture,300.14,5.0,283.96,East
+2022-06-04,Furniture,279.31,7.0,131.32,South
+2022-06-05,Groceries,640.22,2.0,184.55,East
+2022-06-06,Clothing,951.69,3.0,207.08,South
+2022-06-07,Home Decor,204.24,1.0,341.29,South
+2022-06-08,Groceries,770.03,9.0,161.54,South
+2022-06-09,Clothing,622.21,12.0,257.6,Central
+2022-06-10,Electronics,221.51,7.0,55.15,Central
+2022-06-11,Clothing,131.03,14.0,80.18,South
+2022-06-12,Groceries,376.15,12.0,383.01,West
+2022-06-13,Home Decor,255.12,8.0,217.14,North
+2022-06-14,,995.92,2.0,-30.17,Central
+2022-06-15,Home Decor,439.33,1.0,312.01,North
+2022-06-16,Furniture,50.1,7.0,39.92,West
+2022-06-17,Clothing,429.37,14.0,-42.37,East
+2022-06-18,Groceries,733.3,9.0,391.85,East
+2022-06-19,Electronics,371.37,5.0,285.75,West
+2022-06-20,Home Decor,75.68,2.0,89.52,West
+2022-06-21,Home Decor,14.24,7.0,,South
+2022-06-22,Home Decor,92.52,12.0,46.42,North
+2022-06-23,Groceries,948.49,12.0,6.94,West
+2022-06-24,Clothing,585.2,,-63.86,Central
+2022-06-25,Furniture,332.36,10.0,344.81,Central
+2022-06-26,Home Decor,697.73,11.0,-51.28,East
+2022-06-27,Clothing,365.99,7.0,334.63,East
+2022-06-28,Home Decor,209.09,11.0,330.53,West
+2022-06-29,,550.41,12.0,-5.27,South
+2022-06-30,Home Decor,972.61,6.0,245.91,West
+2022-07-01,Home Decor,44.61,4.0,172.02,South
+2022-07-02,Electronics,990.44,13.0,-78.01,Central
+2022-07-03,Groceries,827.8,6.0,253.09,East
+2022-07-04,Electronics,986.72,3.0,-84.97,
+2022-07-05,Home Decor,209.57,12.0,52.3,North
+2022-07-06,Groceries,133.03,6.0,203.41,
+2022-07-07,Clothing,604.7,6.0,,East
+2022-07-08,Clothing,,7.0,246.65,South
+2022-07-09,Clothing,923.89,12.0,293.48,
+2022-07-10,Clothing,781.95,10.0,161.36,South
+2022-07-11,Groceries,217.67,1.0,149.17,Central
+2022-07-12,Clothing,11.31,9.0,216.7,South
+2022-07-13,Electronics,685.34,1.0,104.87,East
+2022-07-14,Electronics,,1.0,244.96,South
+2022-07-15,Groceries,642.31,7.0,126.23,North
+2022-07-16,,857.48,1.0,-67.79,South
+2022-07-17,Clothing,223.71,8.0,16.51,West
+2022-07-18,Home Decor,628.43,8.0,377.27,East
+2022-07-19,Groceries,10.58,13.0,-29.28,North
+2022-07-20,Furniture,666.58,7.0,340.63,North
+2022-07-21,Clothing,737.81,3.0,181.48,West
+2022-07-22,Clothing,719.97,8.0,352.39,Central
+2022-07-23,Furniture,,11.0,256.42,North
+2022-07-24,Electronics,132.93,2.0,9.05,North
+2022-07-25,Clothing,241.32,12.0,87.83,East
+2022-07-26,Electronics,374.99,12.0,355.18,West
+2022-07-27,Home Decor,392.58,6.0,254.45,North
+2022-07-28,Electronics,313.02,4.0,54.17,Central
+2022-07-29,Home Decor,201.87,,392.45,West
+2022-07-30,Groceries,261.65,3.0,290.77,Central
+2022-07-31,Clothing,348.84,12.0,110.93,East
+2022-08-01,Furniture,943.55,9.0,275.19,Central
+2022-08-02,Clothing,98.84,14.0,174.74,North
+2022-08-03,Electronics,557.95,5.0,153.72,North
+2022-08-04,Clothing,73.28,14.0,-81.72,Central
+2022-08-05,Furniture,426.01,11.0,212.81,East
+2022-08-06,Clothing,190.99,4.0,98.04,West
+2022-08-07,,804.69,4.0,379.72,North
+2022-08-08,,25.48,8.0,28.52,Central
+2022-08-09,Electronics,216.37,13.0,328.96,South
+2022-08-10,Electronics,553.33,11.0,105.91,North
+2022-08-11,Groceries,,1.0,131.03,Central
+2022-08-12,Clothing,410.43,6.0,316.72,East
+2022-08-13,Home Decor,694.11,6.0,383.96,South
+2022-08-14,Groceries,189.16,8.0,191.99,South
+2022-08-15,Electronics,526.73,,350.97,North
+2022-08-16,,557.42,10.0,161.79,West
+2022-08-17,Electronics,324.11,9.0,,West
+2022-08-18,,42.87,14.0,266.95,West
+2022-08-19,Clothing,628.77,5.0,174.31,
+2022-08-20,Electronics,180.51,8.0,216.28,East
+2022-08-21,Furniture,815.13,1.0,-51.64,North
+2022-08-22,Furniture,582.65,14.0,379.61,East
+2022-08-23,Groceries,656.78,11.0,204.68,South
+2022-08-24,Furniture,706.54,2.0,,Central
+2022-08-25,Home Decor,715.23,9.0,144.93,West
+2022-08-26,Home Decor,719.67,12.0,99.15,East
+2022-08-27,,998.78,9.0,42.55,North
+2022-08-28,Home Decor,600.8,8.0,30.97,South
+2022-08-29,Home Decor,955.67,10.0,345.76,South
+2022-08-30,Clothing,524.89,10.0,321.64,South
+2022-08-31,Home Decor,563.23,14.0,,Central
+2022-09-01,Electronics,574.25,1.0,351.82,North
+2022-09-02,Clothing,884.65,11.0,318.44,West
+2022-09-03,Electronics,116.39,14.0,-19.17,East
+2022-09-04,Home Decor,135.77,2.0,-27.62,Central
+2022-09-05,Electronics,614.99,10.0,-87.23,South
+2022-09-06,Furniture,959.34,4.0,107.06,East
+2022-09-07,Groceries,908.91,5.0,209.8,West
+2022-09-08,Home Decor,114.96,2.0,381.47,Central
+2022-09-09,,520.08,4.0,248.18,East
+2022-09-10,Groceries,455.83,4.0,2.99,South
+2022-09-11,Groceries,417.98,,81.22,Central
+2022-09-12,Groceries,563.15,4.0,208.86,Central
+2022-09-13,Groceries,920.96,1.0,6.2,South
+2022-09-14,Furniture,573.07,2.0,188.57,Central
+2022-09-15,Groceries,335.01,7.0,102.14,South
+2022-09-16,Furniture,734.3,3.0,339.56,Central
+2022-09-17,Groceries,77.71,4.0,292.7,Central
+2022-09-18,Home Decor,528.85,11.0,255.88,West
+2022-09-19,Electronics,397.04,4.0,338.33,West
+2022-09-20,Groceries,401.5,13.0,294.38,North
+2022-09-21,Clothing,21.71,13.0,67.28,Central
+2022-09-22,Groceries,41.34,10.0,-78.77,South
+2022-09-23,Groceries,428.12,11.0,195.37,Central
+2022-09-24,,221.19,8.0,263.58,South
+2022-09-25,Clothing,340.65,10.0,39.63,Central
+2022-09-26,Electronics,249.97,,133.28,North
+2020-01-01,Groceries,197.47,11.0,199.64,North
+2020-01-02,Home Decor,977.37,10.0,128.46,South
+2020-01-03,Groceries,655.25,12.0,300.49,North
+2020-01-04,Groceries,792.28,6.0,196.04,West
+2020-01-05,Home Decor,507.98,5.0,175.54,West
+2020-01-06,Groceries,797.92,3.0,367.95,North
+2020-01-07,Electronics,,13.0,175.58,Central
+2020-01-08,Home Decor,140.17,7.0,322.34,West
+2020-01-09,Clothing,798.36,7.0,66.35,Central
+2020-01-10,Electronics,216.53,3.0,-33.18,South
+2020-01-11,,170.58,10.0,-26.43,North
+2020-01-12,Clothing,,9.0,277.11,
+2020-01-13,Groceries,697.5,1.0,-34.32,North
+2020-01-14,Groceries,393.93,13.0,-4.77,South
+2020-01-15,Clothing,596.92,2.0,-57.1,East
+2020-01-16,Clothing,678.49,4.0,57.37,North
+2020-01-17,Furniture,323.05,2.0,6.34,Central
+2020-01-18,Furniture,674.57,10.0,382.89,North
+2020-01-19,Groceries,639.35,13.0,-32.22,
+2020-01-20,Furniture,818.45,12.0,246.99,West
+2020-01-21,Clothing,164.78,1.0,,West
+2020-01-22,Electronics,519.11,2.0,106.67,East
+2020-01-23,Groceries,964.8,6.0,-58.24,West
+2020-01-24,Clothing,289.92,13.0,-9.44,East
+2020-01-25,Home Decor,569.6,11.0,329.12,North
+2020-01-26,Furniture,573.05,13.0,10.54,South
+2020-01-27,Furniture,394.72,12.0,74.48,East
+2020-01-28,Furniture,645.26,8.0,210.66,South
+2020-01-29,Electronics,492.05,14.0,-83.24,East
+2020-01-30,Furniture,893.23,6.0,38.83,North
+2020-01-31,Electronics,504.37,1.0,31.47,
+2020-02-01,Electronics,,8.0,-17.35,North
+2020-02-02,Clothing,873.21,13.0,106.93,East
+2020-02-03,Clothing,432.93,1.0,-98.36,
+2020-02-04,Electronics,277.39,12.0,329.86,North
+2020-02-05,Electronics,48.34,2.0,302.68,Central
+2020-02-06,,537.44,,-50.78,South
+2020-02-07,Electronics,787.21,12.0,,Central
+2020-02-08,Home Decor,830.86,12.0,-86.28,North
+2020-02-09,Home Decor,452.0,6.0,-91.97,East
+2020-02-10,Electronics,229.05,3.0,122.9,East
+2020-02-11,Groceries,73.22,3.0,-80.85,
+2020-02-12,Home Decor,147.29,9.0,230.2,Central
+2020-02-13,Clothing,181.92,5.0,184.66,South
+2020-02-14,Furniture,519.38,,-65.62,Central
+2020-02-15,Clothing,188.95,2.0,109.38,East
+2020-02-16,Furniture,463.38,3.0,355.4,West
+2020-02-17,Furniture,,5.0,-87.47,West
+2020-02-18,Electronics,927.65,4.0,63.86,West
+2020-02-19,Clothing,52.6,14.0,141.07,East
+2020-02-20,Groceries,254.3,8.0,-65.64,South
+2020-02-21,Furniture,615.63,14.0,351.64,South
+2020-02-22,Groceries,249.47,8.0,42.21,North
+2020-02-23,Home Decor,874.68,10.0,208.22,Central
+2020-02-24,Furniture,303.56,12.0,,South
+2020-02-25,,406.87,14.0,85.91,East
+2020-02-26,Groceries,739.13,4.0,312.07,South
+2020-02-27,Home Decor,171.65,1.0,-74.8,North
+2020-02-28,Clothing,608.02,,-51.76,West
+2020-02-29,Furniture,440.8,7.0,393.19,North
+2020-03-01,Groceries,176.41,12.0,38.25,North
+2020-03-02,Electronics,632.43,11.0,392.05,East
+2020-03-03,Groceries,48.07,9.0,123.84,
+2020-03-04,Furniture,547.58,1.0,103.0,West
+2020-03-05,Furniture,421.68,7.0,-85.05,West
+2020-03-06,Electronics,740.76,5.0,-52.03,
+2020-03-07,Clothing,912.2,9.0,-39.56,South
+2020-03-08,Home Decor,806.27,1.0,167.76,West
+2020-03-09,Furniture,774.71,14.0,339.38,Central
+2020-03-10,Groceries,292.8,7.0,83.76,South
+2020-03-11,Electronics,967.5,6.0,,South
+2020-03-12,Groceries,379.68,10.0,350.97,West
+2020-03-13,Home Decor,980.37,12.0,-64.64,North
+2020-03-14,Groceries,378.51,5.0,109.31,West
+2020-03-15,Clothing,976.93,10.0,299.47,North
+2020-03-16,Furniture,674.01,11.0,236.07,West
+2020-03-17,Home Decor,954.35,10.0,-41.66,Central
+2020-03-18,Electronics,645.47,1.0,,West
+2020-03-19,Furniture,347.73,1.0,249.89,Central
+2020-03-20,Home Decor,51.38,12.0,,West
+2020-03-21,Groceries,926.19,12.0,112.86,North
+2020-03-22,Home Decor,215.53,5.0,-37.39,
+2020-03-23,Home Decor,510.55,1.0,1.3,West
+2020-03-24,Home Decor,459.09,5.0,395.28,East
+2020-03-25,Groceries,11.19,13.0,184.19,North
+2020-03-26,Clothing,691.11,6.0,41.87,Central
+2020-03-27,Electronics,364.66,13.0,79.3,North
+2020-03-28,Groceries,392.2,12.0,106.96,South
+2020-03-29,Home Decor,23.17,3.0,369.5,South
+2020-03-30,Home Decor,255.24,12.0,153.1,Central
+2020-03-31,Groceries,345.96,12.0,55.6,West
+2020-04-01,Clothing,884.9,14.0,-71.64,West
+2020-04-02,Home Decor,591.67,1.0,161.73,North
+2020-04-03,Clothing,330.8,9.0,258.09,East
+2020-04-04,Furniture,428.67,3.0,-70.0,East
+2020-04-05,Home Decor,731.39,11.0,371.1,South
+2020-04-06,Clothing,822.69,14.0,189.29,West
+2020-04-07,Groceries,420.83,2.0,68.81,East
+2020-04-08,Home Decor,36.6,9.0,392.07,
+2020-04-09,Home Decor,98.65,6.0,358.26,West
+2020-04-10,Clothing,500.75,1.0,232.89,North
+2020-04-11,Home Decor,713.27,9.0,-82.45,Central
+2020-04-12,Electronics,649.68,10.0,219.69,West
+2020-04-13,Home Decor,504.14,12.0,223.18,South
+2020-04-14,Groceries,663.08,12.0,226.92,South
+2020-04-15,Groceries,763.56,8.0,75.2,West
+2020-04-16,Home Decor,891.67,5.0,314.3,Central
+2020-04-17,Clothing,915.41,3.0,77.54,South
+2020-04-18,Home Decor,125.1,10.0,190.42,West
+2020-04-19,Furniture,581.6,2.0,59.21,Central
+2020-04-20,Clothing,140.75,1.0,152.81,
+2020-04-21,Groceries,405.07,5.0,-44.73,South
+2020-04-22,Clothing,370.52,13.0,74.6,West
+2020-04-23,,479.67,,338.09,
+2020-04-24,Furniture,913.12,4.0,349.49,East
+2020-04-25,Groceries,922.15,,295.53,Central
+2020-04-26,Groceries,730.77,5.0,108.7,East
+2020-04-27,Groceries,802.67,12.0,168.16,West
+2020-04-28,Clothing,184.69,13.0,25.27,South
+2020-04-29,Electronics,444.97,14.0,167.78,South
+2020-04-30,Furniture,380.03,,18.74,East
+2020-05-01,Furniture,317.54,1.0,220.49,North
+2020-05-02,Home Decor,,,26.39,South
+2020-05-03,Groceries,251.51,13.0,368.8,West
+2020-05-04,Home Decor,517.68,8.0,34.83,North
+2020-05-05,Furniture,606.98,3.0,135.95,North
+2020-05-06,Furniture,15.57,11.0,,North
+2020-05-07,Groceries,728.49,2.0,91.62,
+2020-05-08,Furniture,554.77,10.0,346.14,Central
+2020-05-09,Furniture,109.24,5.0,31.77,Central
+2020-05-10,Electronics,281.8,11.0,,West
+2020-05-11,Home Decor,928.12,10.0,-10.86,West
+2020-05-12,Electronics,921.97,6.0,82.86,West
+2020-05-13,Clothing,,10.0,197.75,East
+2020-05-14,Groceries,741.06,14.0,,South
+2020-05-15,Furniture,529.65,9.0,384.53,West
+2020-05-16,Electronics,636.32,14.0,135.18,North
+2020-05-17,Groceries,389.57,13.0,292.27,South
+2020-05-18,Clothing,146.84,4.0,-98.24,North
+2020-05-19,Furniture,916.05,11.0,338.61,South
+2020-05-20,Furniture,347.31,3.0,-20.92,North
+2020-05-21,Home Decor,456.89,14.0,40.2,South
+2020-05-22,Home Decor,933.76,,-39.63,North
+2020-05-23,Electronics,293.7,7.0,-78.06,Central
+2020-05-24,Home Decor,743.58,1.0,385.07,West
+2020-05-25,Furniture,356.18,14.0,,North
+2020-05-26,,697.44,6.0,21.15,North
+2020-05-27,Home Decor,18.54,5.0,241.67,
+2020-05-28,Furniture,893.82,8.0,168.6,North
+2020-05-29,Electronics,640.0,13.0,58.73,North
+2020-05-30,Furniture,660.09,2.0,,East
+2020-05-31,Electronics,740.24,4.0,82.09,South
+2020-06-01,Electronics,922.01,14.0,216.86,West
+2020-06-02,Home Decor,822.38,2.0,182.97,West
+2020-06-03,Clothing,339.85,11.0,-90.6,South
+2020-06-04,Clothing,386.31,13.0,-60.18,West
+2020-06-05,Groceries,520.18,10.0,211.72,West
+2020-06-06,Home Decor,646.26,12.0,96.19,East
+2020-06-07,Home Decor,879.32,5.0,320.39,East
+2020-06-08,,907.88,2.0,119.52,East
+2020-06-09,Clothing,252.24,5.0,387.84,Central
+2020-06-10,Groceries,,3.0,48.19,East
+2020-06-11,Electronics,480.57,9.0,56.31,West
+2020-06-12,Electronics,926.12,9.0,119.76,Central
+2020-06-13,Electronics,90.24,5.0,179.06,West
+2020-06-14,Furniture,85.82,,187.18,East
+2020-06-15,Electronics,613.46,7.0,-16.96,North
+2020-06-16,Home Decor,872.66,4.0,375.76,Central
+2020-06-17,Clothing,863.35,3.0,-73.13,East
+2020-06-18,Clothing,721.04,3.0,-14.91,East
+2020-06-19,Groceries,635.74,7.0,301.32,East
+2020-06-20,Home Decor,350.63,7.0,-80.19,South
+2020-06-21,Groceries,361.8,2.0,48.94,Central
+2020-06-22,Clothing,242.81,14.0,,Central
+2020-06-23,Home Decor,58.55,1.0,194.86,West
+2020-06-24,Groceries,577.52,8.0,172.84,North
+2020-06-25,Home Decor,,12.0,57.29,West
+2020-06-26,Clothing,425.76,1.0,-3.14,West
+2020-06-27,Home Decor,944.41,5.0,344.27,Central
+2020-06-28,Groceries,614.17,4.0,396.23,North
+2020-06-29,Groceries,582.0,1.0,231.46,North
+2020-06-30,Groceries,527.72,2.0,173.36,West
+2020-07-01,Clothing,393.8,4.0,263.12,East
+2020-07-02,Electronics,769.81,5.0,111.43,North
+2020-07-03,Groceries,461.23,13.0,129.11,West
+2020-07-04,Furniture,870.61,7.0,-97.81,South
+2020-07-05,Furniture,924.88,,-2.84,South
+2020-07-06,Furniture,548.83,5.0,-77.24,East
+2020-07-07,Groceries,499.71,4.0,271.74,West
+2020-07-08,Clothing,382.81,1.0,295.88,North
+2020-07-09,Clothing,789.06,9.0,136.18,East
+2020-07-10,Home Decor,395.85,12.0,156.67,
+2020-07-11,,564.63,13.0,255.24,Central
+2020-07-12,Clothing,863.73,2.0,208.73,Central
+2020-07-13,Electronics,102.15,13.0,208.97,West
+2020-07-14,Furniture,853.78,7.0,-53.56,North
+2020-07-15,Clothing,71.79,8.0,229.5,South
+2020-07-16,Groceries,165.48,,-29.85,South
+2020-07-17,Clothing,743.94,8.0,224.64,West
+2020-07-18,Furniture,,4.0,305.4,West
+2020-07-19,Furniture,40.43,9.0,106.1,Central
+2020-07-20,Furniture,272.48,4.0,73.34,North
+2020-07-21,Groceries,539.78,6.0,103.33,East
+2020-07-22,Groceries,536.93,10.0,142.7,Central
+2020-07-23,Electronics,294.8,1.0,,Central
+2020-07-24,Clothing,,6.0,242.15,South
+2020-07-25,Electronics,469.36,5.0,326.04,North
+2020-07-26,Furniture,985.2,9.0,-90.05,Central
+2020-07-27,,707.66,14.0,214.22,South
+2020-07-28,Furniture,693.73,10.0,147.05,Central
+2020-07-29,Home Decor,127.7,10.0,-44.29,West
+2020-07-30,Electronics,426.87,12.0,117.0,Central
+2020-07-31,Groceries,850.04,7.0,,East
+2020-08-01,Electronics,302.01,8.0,68.94,
+2020-08-02,Groceries,365.28,8.0,119.92,South
+2020-08-03,Clothing,961.41,6.0,358.91,West
+2020-08-04,Clothing,13.55,3.0,234.79,East
+2020-08-05,Home Decor,767.89,3.0,-17.63,North
+2020-08-06,Home Decor,797.34,11.0,8.64,West
+2020-08-07,Furniture,,13.0,83.19,Central
+2020-08-08,Electronics,875.74,12.0,,West
+2020-08-09,Home Decor,739.1,13.0,-5.78,Central
+2020-08-10,Furniture,758.49,2.0,259.11,Central
+2020-08-11,Home Decor,171.7,2.0,185.18,South
+2020-08-12,Clothing,636.83,5.0,291.03,East
+2020-08-13,Electronics,170.43,10.0,183.3,North
+2020-08-14,Groceries,207.78,1.0,201.03,
+2020-08-15,Clothing,800.2,2.0,152.15,West
+2020-08-16,Clothing,599.42,6.0,,East
+2020-08-17,Groceries,63.17,2.0,,East
+2020-08-18,Furniture,955.62,8.0,163.39,West
+2020-08-19,Electronics,861.87,13.0,88.39,South
+2020-08-20,Furniture,671.63,6.0,106.37,North
+2020-08-21,Clothing,984.24,3.0,75.83,West
+2020-08-22,Home Decor,230.82,7.0,379.4,
+2020-08-23,Clothing,691.91,4.0,-40.74,West
+2020-08-24,Groceries,129.75,4.0,373.51,West
+2020-08-25,Electronics,399.4,11.0,181.37,North
+2020-08-26,Groceries,666.57,1.0,159.37,South
+2020-08-27,Home Decor,812.93,12.0,375.05,Central
+2020-08-28,Electronics,479.23,13.0,103.36,Central
+2020-08-29,Electronics,521.28,13.0,204.13,
+2020-08-30,Clothing,195.09,4.0,-63.02,West
+2020-08-31,Furniture,409.9,12.0,118.46,Central
+2020-09-01,Furniture,,1.0,196.05,South
+2020-09-02,Home Decor,739.79,7.0,-30.24,East
+2020-09-03,Home Decor,716.41,4.0,13.24,South
+2020-09-04,Electronics,345.5,7.0,390.33,North
+2020-09-05,Furniture,727.39,12.0,,East
+2020-09-06,Furniture,436.54,14.0,146.85,West
+2020-09-07,Groceries,17.43,2.0,6.56,West
+2020-09-08,Groceries,633.13,11.0,361.56,North
+2020-09-09,Clothing,330.66,9.0,64.05,Central
+2020-09-10,Electronics,63.37,10.0,299.88,Central
+2020-09-11,Clothing,427.63,7.0,225.44,South
+2020-09-12,Electronics,256.45,14.0,188.15,South
+2020-09-13,Furniture,211.33,13.0,318.22,West
+2020-09-14,Home Decor,351.12,6.0,331.1,Central
+2020-09-15,Clothing,257.8,7.0,372.38,South
+2020-09-16,Groceries,839.03,11.0,113.04,Central
+2020-09-17,,895.39,13.0,182.31,North
+2020-09-18,Electronics,964.29,14.0,-53.98,Central
+2020-09-19,Home Decor,592.91,11.0,,
+2020-09-20,Home Decor,359.78,12.0,133.08,East
+2020-09-21,Clothing,722.25,12.0,-62.04,West
+2020-09-22,Groceries,688.5,7.0,357.99,North
+2020-09-23,Groceries,700.35,2.0,-51.77,South
+2020-09-24,Electronics,196.7,4.0,-11.07,Central
+2020-09-25,Electronics,513.31,6.0,8.29,Central
+2020-09-26,Clothing,611.7,,-39.28,West
+2020-09-27,Groceries,237.47,13.0,54.01,West
+2020-09-28,Clothing,395.73,14.0,258.64,Central
+2020-09-29,Home Decor,39.6,12.0,241.74,South
+2020-09-30,Furniture,521.2,8.0,245.89,Central
+2020-10-01,Clothing,586.27,5.0,334.45,South
+2020-10-02,Groceries,849.39,12.0,149.18,Central
+2020-10-03,Electronics,922.09,,340.07,North
+2020-10-04,Home Decor,795.43,14.0,71.42,East
+2020-10-05,Electronics,346.64,,368.81,North
+2020-10-06,Electronics,306.86,1.0,,West
+2020-10-07,Groceries,,,-44.77,East
+2020-10-08,Clothing,600.85,6.0,141.98,East
+2020-10-09,Home Decor,,4.0,27.56,South
+2020-10-10,Furniture,534.77,13.0,281.76,South
+2020-10-11,Clothing,338.29,,58.21,West
+2020-10-12,Groceries,113.6,6.0,196.89,South
+2020-10-13,Clothing,,7.0,30.15,North
+2020-10-14,Groceries,,1.0,74.98,East
+2020-10-15,Home Decor,855.03,9.0,215.31,South
+2020-10-16,Groceries,15.74,3.0,151.82,South
+2020-10-17,Home Decor,525.8,7.0,-18.84,Central
+2020-10-18,Furniture,283.36,2.0,-90.0,North
+2020-10-19,Clothing,279.02,13.0,239.28,Central
+2020-10-20,Electronics,988.9,1.0,371.82,West
+2020-10-21,Clothing,63.27,3.0,-3.38,North
+2020-10-22,Home Decor,235.51,4.0,-45.91,South
+2020-10-23,Clothing,561.2,9.0,204.26,West
+2020-10-24,,387.51,1.0,225.16,North
+2020-10-25,Electronics,147.38,8.0,151.72,
+2020-10-26,Home Decor,160.91,2.0,132.69,West
+2020-10-27,Electronics,149.58,,187.6,East
+2020-10-28,Clothing,357.88,2.0,-14.03,East
+2020-10-29,Furniture,732.03,9.0,230.86,East
+2020-10-30,Furniture,868.12,6.0,221.51,South
+2020-10-31,Groceries,71.78,11.0,292.65,Central
+2020-11-01,Clothing,239.83,2.0,114.12,North
+2020-11-02,Home Decor,515.42,10.0,-26.73,Central
+2020-11-03,Groceries,14.37,13.0,230.75,North
+2020-11-04,Clothing,546.36,5.0,-45.35,East
+2020-11-05,Groceries,303.91,11.0,-49.44,West
+2020-11-06,Groceries,348.25,14.0,128.15,East
+2020-11-07,Electronics,118.41,14.0,-44.9,North
+2020-11-08,Electronics,63.9,2.0,-15.43,
+2020-11-09,Groceries,918.32,12.0,376.21,South
+2020-11-10,Groceries,370.26,11.0,-95.96,West
+2020-11-11,Groceries,506.71,5.0,253.24,North
+2020-11-12,Groceries,662.54,7.0,194.57,Central
+2020-11-13,Furniture,71.94,7.0,202.45,West
+2020-11-14,Clothing,958.9,3.0,-99.99,South
+2020-11-15,Electronics,923.51,7.0,66.65,South
+2020-11-16,Electronics,958.81,5.0,,West
+2020-11-17,Electronics,964.22,9.0,130.86,West
+2020-11-18,Electronics,688.7,,395.47,South
+2020-11-19,Home Decor,988.01,10.0,292.12,South
+2020-11-20,Electronics,98.66,8.0,75.16,South
+2020-11-21,Electronics,333.06,12.0,203.02,South
+2020-11-22,Furniture,754.3,7.0,-64.77,North
+2020-11-23,Groceries,555.07,11.0,332.87,
+2020-11-24,Home Decor,299.28,14.0,34.23,West
+2020-11-25,Clothing,762.03,2.0,231.44,Central
+2020-11-26,Clothing,467.87,5.0,337.67,North
+2020-11-27,Furniture,487.44,8.0,360.11,South
+2020-11-28,Groceries,849.02,14.0,329.0,South
+2020-11-29,Clothing,33.53,6.0,280.19,West
+2020-11-30,Groceries,133.4,14.0,346.52,West
+2020-12-01,Furniture,,14.0,100.51,Central
+2020-12-02,Home Decor,480.67,14.0,-57.28,South
+2020-12-03,Electronics,83.97,14.0,294.17,
+2020-12-04,Furniture,25.58,11.0,164.08,West
+2020-12-05,Groceries,839.15,6.0,132.66,South
+2020-12-06,Home Decor,209.01,8.0,351.08,South
+2020-12-07,,576.61,8.0,200.64,North
+2020-12-08,Furniture,810.35,1.0,101.82,West
+2020-12-09,Groceries,556.26,10.0,211.83,North
+2020-12-10,Furniture,644.04,2.0,157.07,North
+2020-12-11,Electronics,646.2,11.0,177.75,South
+2020-12-12,Furniture,425.14,13.0,309.95,North
+2020-12-13,,536.82,4.0,105.53,North
+2020-12-14,Groceries,364.24,5.0,,South
+2020-12-15,Groceries,834.74,1.0,108.77,Central
+2020-12-16,Groceries,606.94,13.0,26.98,Central
+2020-12-17,Clothing,668.41,5.0,368.33,South
+2020-12-18,Clothing,462.81,10.0,211.51,Central
+2020-12-19,Furniture,202.78,9.0,-67.26,North
+2020-12-20,Electronics,103.94,12.0,234.61,East
+2020-12-21,Furniture,815.57,11.0,130.77,East
+2020-12-22,Groceries,690.6,7.0,300.93,
+2020-12-23,Electronics,10.98,5.0,285.41,North
+2020-12-24,Clothing,264.24,8.0,,West
+2020-12-25,Clothing,,8.0,24.04,South
+2020-12-26,,256.67,6.0,35.24,Central
+2020-12-27,Clothing,803.97,10.0,-80.14,
+2020-12-28,Furniture,590.14,7.0,,East
+2020-12-29,Electronics,515.82,12.0,35.15,North
+2020-12-30,Electronics,659.63,4.0,349.19,North
+2020-12-31,Electronics,289.84,9.0,-37.87,North
+2021-01-01,Clothing,618.5,1.0,177.36,North
+2021-01-02,Electronics,196.42,7.0,135.23,North
+2021-01-03,Electronics,74.19,8.0,111.36,West
+2021-01-04,Home Decor,153.37,14.0,330.0,North
+2021-01-05,Clothing,480.2,11.0,234.42,East
+2021-01-06,Groceries,901.57,12.0,-30.27,West
+2021-01-07,Groceries,24.75,3.0,165.58,North
+2021-01-08,Clothing,757.9,2.0,86.81,North
+2021-01-09,Furniture,271.78,3.0,399.06,Central
+2021-01-10,Furniture,37.68,9.0,77.39,South
+2021-01-11,Furniture,238.77,10.0,16.86,North
+2021-01-12,Furniture,882.13,4.0,-51.23,West
+2021-01-13,Home Decor,443.11,3.0,150.08,
+2021-01-14,Electronics,322.19,5.0,312.13,Central
+2021-01-15,Electronics,256.24,6.0,-47.72,East
+2021-01-16,Electronics,592.45,10.0,-51.66,East
+2021-01-17,Clothing,602.03,7.0,-15.73,Central
+2021-01-18,Clothing,189.52,1.0,-70.16,South
+2021-01-19,Furniture,374.07,9.0,110.66,North
+2021-01-20,Clothing,305.1,6.0,176.86,
+2021-01-21,Clothing,219.52,1.0,15.02,
+2021-01-22,Electronics,978.4,3.0,90.23,West
+2021-01-23,Groceries,966.87,12.0,-42.23,Central
+2021-01-24,Groceries,406.98,4.0,225.78,West
+2021-01-25,Groceries,555.3,2.0,-65.05,South
+2021-01-26,Electronics,269.39,4.0,,West
+2021-01-27,Groceries,669.43,10.0,262.07,West
+2021-01-28,Electronics,218.77,1.0,276.09,North
+2021-01-29,Electronics,766.54,14.0,-18.41,South
+2021-01-30,Groceries,804.02,13.0,28.78,East
+2021-01-31,Electronics,102.15,1.0,380.48,Central
+2021-02-01,Electronics,586.2,1.0,-57.07,Central
+2021-02-02,Electronics,484.05,14.0,336.64,North
+2021-02-03,Home Decor,165.06,10.0,282.13,
+2021-02-04,Home Decor,689.92,10.0,210.04,Central
+2021-02-05,,605.99,9.0,297.99,East
+2021-02-06,Furniture,305.08,1.0,206.41,
+2021-02-07,Home Decor,466.94,9.0,260.72,East
+2021-02-08,Furniture,121.93,6.0,-52.71,East
+2021-02-09,Electronics,331.78,10.0,313.56,West
+2021-02-10,Electronics,455.55,2.0,173.68,
+2021-02-11,Furniture,651.09,,228.0,Central
+2021-02-12,Groceries,308.23,1.0,157.14,South
+2021-02-13,Electronics,546.22,13.0,188.95,East
+2021-02-14,Home Decor,370.04,3.0,-78.15,Central
+2021-02-15,Home Decor,648.8,9.0,-45.47,North
+2021-02-16,Electronics,491.72,,,West
+2021-02-17,Groceries,55.28,6.0,-91.37,Central
+2021-02-18,Furniture,386.7,10.0,234.38,West
+2021-02-19,,872.15,11.0,31.41,West
+2021-02-20,Electronics,884.75,14.0,,West
+2021-02-21,Electronics,544.53,5.0,90.92,South
+2021-02-22,Groceries,324.28,3.0,-93.52,South
+2021-02-23,Clothing,,14.0,-77.93,West
+2021-02-24,Furniture,514.6,2.0,262.27,South
+2021-02-25,Home Decor,132.35,5.0,319.07,South
+2021-02-26,Groceries,119.79,7.0,-23.21,West
+2021-02-27,Groceries,159.75,3.0,138.01,South
+2021-02-28,Groceries,11.79,7.0,237.08,Central
+2021-03-01,Furniture,625.24,5.0,380.07,West
+2021-03-02,Home Decor,454.6,9.0,-5.61,North
+2021-03-03,Clothing,616.18,13.0,127.11,
+2021-03-04,Groceries,,6.0,343.08,South
+2021-03-05,Furniture,269.59,,325.6,Central
+2021-03-06,Electronics,822.16,2.0,73.15,South
+2021-03-07,Furniture,270.41,11.0,168.51,Central
+2021-03-08,,684.37,14.0,332.97,West
+2021-03-09,Electronics,571.63,3.0,224.92,West
+2021-03-10,Furniture,375.78,12.0,44.96,Central
+2021-03-11,Home Decor,395.63,12.0,259.81,South
+2021-03-12,Home Decor,401.73,6.0,318.86,East
+2021-03-13,Home Decor,481.56,5.0,389.37,Central
+2021-03-14,Electronics,229.61,12.0,230.52,West
+2021-03-15,Furniture,,11.0,,East
+2021-03-16,Furniture,759.26,13.0,217.75,North
+2021-03-17,Home Decor,132.56,9.0,28.53,East
+2021-03-18,Clothing,682.95,4.0,96.54,East
+2021-03-19,Groceries,110.6,5.0,343.48,West
+2021-03-20,Groceries,557.63,13.0,190.18,East
+2021-03-21,Groceries,902.79,14.0,,North
+2021-03-22,Groceries,170.92,5.0,135.76,East
+2021-03-23,Clothing,325.78,1.0,79.26,North
+2021-03-24,Home Decor,591.09,2.0,228.69,South
+2021-03-25,Home Decor,609.36,7.0,-97.44,South
+2021-03-26,Home Decor,213.68,6.0,363.71,South
+2021-03-27,Home Decor,460.82,4.0,22.95,West
+2021-03-28,,981.43,1.0,227.24,North
+2021-03-29,Home Decor,181.75,11.0,199.84,East
+2021-03-30,Clothing,848.66,5.0,81.6,Central
+2021-03-31,Groceries,193.97,4.0,22.89,South
+2021-04-01,Clothing,636.04,4.0,197.37,East
+2021-04-02,Electronics,479.38,9.0,40.91,Central
+2021-04-03,Groceries,262.14,13.0,321.07,West
+2021-04-04,Furniture,283.51,10.0,209.04,North
+2021-04-05,Furniture,843.12,1.0,346.57,West
+2021-04-06,Clothing,211.57,1.0,100.24,West
+2021-04-07,Groceries,27.43,10.0,361.84,North
+2021-04-08,Furniture,340.32,,55.96,North
+2021-04-09,Electronics,866.73,1.0,238.8,North
+2021-04-10,Home Decor,438.45,9.0,396.71,West
+2021-04-11,Electronics,736.56,9.0,33.51,
+2021-04-12,Clothing,718.38,11.0,8.88,North
+2021-04-13,Home Decor,,14.0,163.13,South
+2021-04-14,Clothing,,,180.63,West
+2021-04-15,Electronics,66.81,,368.64,South
+2021-04-16,,84.26,7.0,307.49,South
+2021-04-17,Home Decor,381.17,11.0,265.9,Central
+2021-04-18,Home Decor,916.62,2.0,245.88,East
+2021-04-19,Furniture,747.66,7.0,318.81,South
+2021-04-20,Home Decor,764.79,12.0,15.64,East
+2021-04-21,Home Decor,855.84,,113.47,East
+2021-04-22,Electronics,973.33,,-63.45,Central
+2021-04-23,Groceries,909.39,13.0,78.8,East
+2021-04-24,Clothing,686.26,2.0,275.78,Central
+2021-04-25,Groceries,656.49,3.0,303.73,North
+2021-04-26,Furniture,933.47,10.0,45.44,North
+2021-04-27,Electronics,363.02,11.0,238.31,East
+2021-04-28,Clothing,439.91,6.0,53.5,West
+2021-04-29,Furniture,634.82,7.0,119.03,East
+2021-04-30,Furniture,84.06,11.0,28.26,
+2021-05-01,Furniture,320.8,11.0,207.59,North
+2021-05-02,Furniture,308.57,3.0,74.73,West
+2021-05-03,Furniture,775.38,3.0,87.89,Central
+2021-05-04,Electronics,679.41,1.0,395.15,North
+2021-05-05,Clothing,94.06,5.0,179.8,West
+2021-05-06,Home Decor,316.89,2.0,110.93,West
+2021-05-07,Electronics,903.56,13.0,364.38,North
+2021-05-08,Furniture,768.81,5.0,-73.69,North
+2021-05-09,,108.88,1.0,168.72,East
+2021-05-10,Electronics,,7.0,296.23,West
+2021-05-11,Clothing,937.13,13.0,252.81,North
+2021-05-12,Home Decor,,3.0,351.28,East
+2021-05-13,Groceries,539.55,7.0,76.3,East
+2021-05-14,Clothing,461.78,,-21.31,North
+2021-05-15,Electronics,562.73,,132.39,Central
+2021-05-16,Clothing,57.9,11.0,203.89,Central
+2021-05-17,Groceries,558.33,14.0,263.04,West
+2021-05-18,Clothing,631.3,2.0,-52.55,North
+2021-05-19,Electronics,812.11,4.0,86.89,South
+2021-05-20,Home Decor,197.14,12.0,-48.62,South
+2021-05-21,Electronics,500.12,11.0,-14.6,West
+2021-05-22,Groceries,710.94,1.0,342.1,South
+2021-05-23,Groceries,188.87,5.0,169.5,Central
+2021-05-24,Furniture,69.12,12.0,149.73,West
+2021-05-25,Home Decor,219.54,5.0,-92.79,North
+2021-05-26,Furniture,576.34,1.0,373.81,
+2021-05-27,Electronics,138.53,4.0,380.87,West
+2021-05-28,Home Decor,258.09,2.0,354.17,North
+2021-05-29,Clothing,869.42,6.0,-73.23,South
+2021-05-30,Furniture,486.76,12.0,238.74,West
+2021-05-31,Clothing,929.13,1.0,34.16,Central
+2021-06-01,Home Decor,402.96,4.0,-45.82,South
+2021-06-02,,272.4,3.0,367.2,East
+2021-06-03,Groceries,,6.0,155.62,North
+2021-06-04,Electronics,817.66,13.0,57.92,East
+2021-06-05,Groceries,278.99,10.0,28.08,South
+2021-06-06,Clothing,584.24,9.0,220.0,Central
+2021-06-07,,462.91,3.0,63.55,East
+2021-06-08,Home Decor,213.84,12.0,284.33,
+2021-06-09,Electronics,,13.0,165.44,
+2021-06-10,Home Decor,567.59,,386.07,East
+2021-06-11,Electronics,,1.0,42.7,West
+2021-06-12,Home Decor,130.32,6.0,,South
+2021-06-13,Home Decor,28.44,4.0,-83.69,North
+2021-06-14,Groceries,572.76,1.0,312.81,East
+2021-06-15,Groceries,613.58,3.0,31.34,North
+2021-06-16,Furniture,47.03,8.0,-19.6,South
+2021-06-17,Furniture,83.4,8.0,185.14,West
+2021-06-18,Home Decor,807.74,4.0,237.44,
+2021-06-19,Electronics,689.95,12.0,-89.17,West
+2021-06-20,Furniture,152.16,12.0,151.43,South
+2021-06-21,Groceries,445.44,11.0,360.69,North
+2021-06-22,Furniture,804.61,,52.05,South
+2021-06-23,Electronics,330.28,10.0,62.75,Central
+2021-06-24,Electronics,187.11,13.0,,North
+2021-06-25,Home Decor,797.08,13.0,291.63,South
+2021-06-26,Furniture,136.82,7.0,-25.2,West
+2021-06-27,Electronics,410.66,8.0,17.22,North
+2021-06-28,Furniture,505.56,13.0,,East
+2021-06-29,Electronics,471.37,2.0,129.44,Central
+2021-06-30,Groceries,402.23,11.0,35.61,North
+2021-07-01,Electronics,345.15,13.0,-67.28,West
+2021-07-02,Home Decor,892.28,9.0,243.69,East
+2021-07-03,Clothing,571.33,12.0,271.53,Central
+2021-07-04,Groceries,469.54,9.0,6.9,South
+2021-07-05,Home Decor,869.64,3.0,256.27,East
+2021-07-06,Groceries,227.3,12.0,228.83,South
+2021-07-07,Electronics,592.26,4.0,-10.31,Central
+2021-07-08,Groceries,737.21,13.0,58.26,North
+2021-07-09,Furniture,682.74,6.0,64.21,North
+2021-07-10,Clothing,873.34,4.0,-41.09,East
+2021-07-11,Electronics,504.79,9.0,337.75,South
+2021-07-12,Electronics,177.64,14.0,117.37,Central
+2021-07-13,Groceries,389.91,10.0,251.63,West
+2021-07-14,Groceries,406.85,13.0,271.14,Central
+2021-07-15,Furniture,304.79,10.0,306.16,North
+2021-07-16,Furniture,644.39,8.0,197.74,North
+2021-07-17,Clothing,21.5,12.0,25.5,East
+2021-07-18,Furniture,369.6,2.0,241.28,
+2021-07-19,Furniture,257.35,2.0,172.63,East
+2021-07-20,Groceries,612.36,2.0,321.61,West
+2021-07-21,Home Decor,724.68,11.0,161.88,East
+2021-07-22,Clothing,,9.0,327.79,East
+2021-07-23,Furniture,290.8,14.0,30.25,South
+2021-07-24,Clothing,181.6,14.0,263.66,Central
+2021-07-25,Electronics,628.25,5.0,278.92,North
+2021-07-26,Home Decor,610.31,1.0,-10.79,East
+2021-07-27,Home Decor,798.3,14.0,327.39,East
+2021-07-28,Electronics,544.82,2.0,171.2,
+2021-07-29,,429.46,4.0,317.92,West
+2021-07-30,Groceries,257.0,7.0,49.79,East
+2021-07-31,Groceries,647.59,8.0,365.5,Central
+2021-08-01,Furniture,244.84,8.0,256.72,East
+2021-08-02,Electronics,924.5,2.0,165.79,South
+2021-08-03,Groceries,130.93,3.0,298.05,Central
+2021-08-04,Electronics,798.16,2.0,122.91,South
+2021-08-05,Electronics,844.51,13.0,,
+2021-08-06,Clothing,120.52,10.0,,West
+2021-08-07,,266.13,4.0,181.1,South
+2021-08-08,Electronics,448.5,3.0,142.12,East
+2021-08-09,Clothing,759.68,10.0,177.19,South
+2021-08-10,Electronics,972.01,12.0,98.09,Central
+2021-08-11,Electronics,284.23,6.0,-10.85,East
+2021-08-12,Clothing,572.18,10.0,1.05,East
+2021-08-13,Electronics,,6.0,15.43,Central
+2021-08-14,Electronics,415.04,,337.21,East
+2021-08-15,Electronics,648.07,6.0,-92.95,South
+2021-08-16,Clothing,816.33,11.0,342.51,North
+2021-08-17,Clothing,27.5,1.0,271.85,North
+2021-08-18,Home Decor,554.02,2.0,70.69,West
+2021-08-19,Furniture,377.96,13.0,319.42,East
+2021-08-20,Electronics,146.47,1.0,188.53,East
+2021-08-21,Furniture,729.9,3.0,37.93,
+2021-08-22,Furniture,190.46,2.0,272.3,Central
+2021-08-23,Home Decor,,10.0,115.74,East
+2021-08-24,Electronics,105.43,8.0,374.78,North
+2021-08-25,,381.55,4.0,207.45,East
+2021-08-26,Clothing,842.6,4.0,238.31,
+2021-08-27,Electronics,382.26,8.0,257.9,North
+2021-08-28,Furniture,273.96,9.0,194.88,South
+2021-08-29,Home Decor,927.35,13.0,-23.35,North
+2021-08-30,Electronics,983.38,10.0,342.04,West
+2021-08-31,Electronics,270.48,2.0,161.26,North
+2021-09-01,Clothing,579.78,12.0,174.56,Central
+2021-09-02,Home Decor,832.09,1.0,-96.85,West
+2021-09-03,Clothing,701.17,9.0,,Central
+2021-09-04,Home Decor,909.02,12.0,191.6,North
+2021-09-05,Home Decor,595.91,8.0,341.39,Central
+2021-09-06,Home Decor,196.0,1.0,192.13,East
+2021-09-07,Furniture,758.58,3.0,398.56,North
+2021-09-08,Groceries,741.62,8.0,4.11,
+2021-09-09,Clothing,390.77,3.0,272.78,West
+2021-09-10,Groceries,778.98,12.0,77.78,East
+2021-09-11,Home Decor,621.33,14.0,265.35,East
+2021-09-12,Home Decor,738.8,,181.43,Central
+2021-09-13,Electronics,166.4,2.0,-3.62,West
+2021-09-14,Furniture,752.16,2.0,75.59,
+2021-09-15,,264.28,12.0,-52.89,North
+2021-09-16,Electronics,356.48,7.0,184.23,East
+2021-09-17,Furniture,770.69,2.0,311.07,South
+2021-09-18,Clothing,594.18,9.0,79.08,North
+2021-09-19,Home Decor,262.9,10.0,63.85,
+2021-09-20,Groceries,,1.0,269.26,West
+2021-09-21,Furniture,67.85,4.0,-72.31,Central
+2021-09-22,Home Decor,112.57,12.0,344.7,East
+2021-09-23,Groceries,762.77,1.0,362.8,East
+2021-09-24,Clothing,658.43,7.0,275.05,South
+2021-09-25,Furniture,322.3,5.0,90.17,East
+2021-09-26,Electronics,455.5,4.0,-35.03,North
+2021-09-27,Furniture,717.1,5.0,-17.17,North
+2021-09-28,Clothing,318.74,10.0,348.03,East
+2021-09-29,Clothing,255.46,4.0,-11.69,South
+2021-09-30,,292.88,7.0,237.76,North
+2021-10-01,Home Decor,34.83,3.0,189.72,South
+2021-10-02,Electronics,639.38,6.0,,South
+2021-10-03,Electronics,616.25,14.0,-92.43,South
+2021-10-04,Furniture,386.14,7.0,-45.97,North
+2021-10-05,Electronics,640.9,,372.83,West
+2021-10-06,Home Decor,913.4,10.0,321.44,
+2021-10-07,Electronics,64.21,4.0,-80.61,South
+2021-10-08,Furniture,846.01,12.0,-0.57,North
+2021-10-09,Furniture,393.32,3.0,250.37,North
+2021-10-10,Furniture,97.77,11.0,-77.86,Central
+2021-10-11,Home Decor,292.17,6.0,221.17,East
+2021-10-12,Electronics,938.27,5.0,158.91,Central
+2021-10-13,Clothing,709.52,11.0,-72.94,Central
+2021-10-14,Electronics,533.76,4.0,63.4,West
+2021-10-15,Furniture,,11.0,70.63,West
+2021-10-16,Clothing,,12.0,-76.79,Central
+2021-10-17,Groceries,12.65,7.0,196.43,West
+2021-10-18,Electronics,431.55,9.0,213.62,South
+2021-10-19,Home Decor,689.08,13.0,114.17,East
+2021-10-20,Electronics,557.8,10.0,-94.06,South
+2021-10-21,Furniture,449.3,8.0,155.51,
+2021-10-22,Electronics,16.1,6.0,267.74,
+2021-10-23,Clothing,717.92,7.0,-51.05,East
+2021-10-24,Electronics,567.1,10.0,-58.95,West
+2021-10-25,Clothing,696.85,6.0,300.88,Central
+2021-10-26,Clothing,635.58,10.0,66.95,West
+2021-10-27,Clothing,974.32,10.0,75.58,East
+2021-10-28,Clothing,967.99,1.0,130.27,East
+2021-10-29,Electronics,879.63,14.0,266.21,Central
+2021-10-30,Electronics,291.86,14.0,78.26,North
+2021-10-31,Clothing,860.25,1.0,104.43,Central
+2021-11-01,Home Decor,16.54,2.0,17.33,South
+2021-11-02,Home Decor,142.92,13.0,87.09,West
+2021-11-03,Home Decor,465.71,12.0,253.38,Central
+2021-11-04,Furniture,555.34,3.0,349.33,
+2021-11-05,Electronics,373.87,6.0,254.6,North
+2021-11-06,Home Decor,562.65,13.0,149.3,East
+2021-11-07,Groceries,840.7,10.0,314.6,West
+2021-11-08,Clothing,712.42,11.0,318.67,West
+2021-11-09,Electronics,,10.0,86.97,South
+2021-11-10,Home Decor,35.09,6.0,363.33,South
+2021-11-11,Furniture,279.38,7.0,,Central
+2021-11-12,Groceries,102.57,5.0,226.28,Central
+2021-11-13,Furniture,720.05,11.0,276.08,East
+2021-11-14,Groceries,303.53,,281.07,South
+2021-11-15,Home Decor,425.86,5.0,115.24,North
+2021-11-16,Groceries,958.78,5.0,,South
+2021-11-17,,778.6,3.0,-95.23,Central
+2021-11-18,Groceries,863.21,5.0,18.04,West
+2021-11-19,Electronics,39.65,11.0,-5.49,West
+2021-11-20,Groceries,125.27,10.0,-82.23,West
+2021-11-21,Electronics,88.92,8.0,43.53,Central
+2021-11-22,Home Decor,395.15,4.0,-55.33,West
+2021-11-23,Furniture,155.46,7.0,220.83,Central
+2021-11-24,Electronics,68.87,8.0,-98.09,Central
+2021-11-25,Electronics,311.15,5.0,-54.09,West
+2021-11-26,Home Decor,939.77,14.0,265.52,East
+2021-11-27,Home Decor,787.99,8.0,-69.04,North
+2021-11-28,Electronics,285.3,5.0,,Central
+2021-11-29,Electronics,12.14,6.0,317.41,East
+2021-11-30,Furniture,126.7,11.0,80.63,South
+2021-12-01,,529.51,9.0,43.92,East
+2021-12-02,,888.35,11.0,165.31,East
+2021-12-03,Home Decor,49.13,4.0,224.99,West
+2021-12-04,Furniture,904.63,1.0,-5.65,East
+2021-12-05,Electronics,944.89,1.0,259.24,South
+2021-12-06,Clothing,109.08,8.0,,North
+2021-12-07,Clothing,404.81,4.0,287.35,East
+2021-12-08,Clothing,,8.0,26.24,
+2021-12-09,Clothing,337.95,4.0,151.09,North
+2021-12-10,Groceries,979.87,3.0,56.59,South
+2021-12-11,Clothing,595.51,8.0,-63.72,Central
+2021-12-12,Home Decor,425.38,13.0,333.88,South
+2021-12-13,Clothing,167.78,1.0,-98.19,North
+2021-12-14,Electronics,965.17,3.0,6.72,North
+2021-12-15,Electronics,129.89,6.0,-53.49,South
+2021-12-16,Groceries,,7.0,123.57,West
+2021-12-17,Clothing,23.27,3.0,382.93,West
+2021-12-18,Clothing,642.44,6.0,179.89,South
+2021-12-19,Electronics,427.69,4.0,214.88,North
+2021-12-20,Groceries,151.68,2.0,-6.41,Central
+2021-12-21,Clothing,601.09,,272.95,South
+2021-12-22,Furniture,312.49,13.0,358.81,Central
+2021-12-23,Groceries,948.69,14.0,16.29,East
+2021-12-24,Furniture,125.63,1.0,226.6,Central
+2021-12-25,Groceries,739.16,8.0,181.84,South
+2021-12-26,Electronics,521.03,11.0,96.15,Central
+2021-12-27,Home Decor,41.78,10.0,338.52,North
+2021-12-28,Home Decor,408.47,3.0,3.82,East
+2021-12-29,Home Decor,919.29,11.0,244.52,North
+2021-12-30,Clothing,652.04,11.0,24.34,West
+2021-12-31,Furniture,35.93,14.0,265.6,East
+2022-01-01,Groceries,111.57,14.0,116.93,North
+2022-01-02,Groceries,66.45,5.0,14.04,Central
+2022-01-03,Electronics,932.01,2.0,26.55,West
+2022-01-04,Home Decor,135.14,,-3.68,East
+2022-01-05,Groceries,327.92,5.0,371.97,Central
+2022-01-06,Clothing,355.55,8.0,87.34,West
+2022-01-07,Clothing,195.21,5.0,128.33,Central
+2022-01-08,Furniture,137.76,14.0,365.16,West
+2022-01-09,Furniture,404.64,13.0,9.51,East
+2022-01-10,Clothing,623.82,9.0,,North
+2022-01-11,Groceries,799.97,2.0,397.73,West
+2022-01-12,Furniture,520.55,1.0,186.1,West
+2022-01-13,Home Decor,250.35,7.0,79.1,East
+2022-01-14,Groceries,916.58,9.0,-4.08,Central
+2022-01-15,Electronics,32.74,3.0,169.23,South
+2022-01-16,Electronics,110.2,4.0,90.89,South
+2022-01-17,Furniture,19.53,3.0,-76.75,Central
+2022-01-18,Electronics,47.5,10.0,230.77,North
+2022-01-19,Groceries,203.71,14.0,250.3,Central
+2022-01-20,Electronics,254.49,3.0,289.91,Central
+2022-01-21,Home Decor,413.27,1.0,261.85,South
+2022-01-22,Clothing,103.08,12.0,265.92,South
+2022-01-23,Furniture,60.11,4.0,-99.63,North
+2022-01-24,Clothing,975.35,13.0,241.76,East
+2022-01-25,Clothing,,1.0,-74.29,North
+2022-01-26,Furniture,728.99,12.0,12.96,West
+2022-01-27,Electronics,493.01,2.0,291.42,West
+2022-01-28,Groceries,64.48,14.0,23.03,North
+2022-01-29,Furniture,,14.0,-44.86,North
+2022-01-30,Electronics,139.61,5.0,,North
+2022-01-31,Electronics,870.7,5.0,-40.64,South
+2022-02-01,Home Decor,715.74,12.0,58.13,North
+2022-02-02,Clothing,406.9,11.0,393.1,Central
+2022-02-03,Home Decor,886.97,,238.08,East
+2022-02-04,Home Decor,218.61,14.0,265.19,Central
+2022-02-05,Electronics,302.0,9.0,283.79,North
+2022-02-06,Furniture,517.31,8.0,45.2,North
+2022-02-07,Furniture,,7.0,,North
+2022-02-08,Clothing,,2.0,93.49,North
+2022-02-09,Home Decor,758.28,9.0,339.51,South
+2022-02-10,Home Decor,764.91,12.0,-54.26,West
+2022-02-11,Clothing,960.19,2.0,-82.8,
+2022-02-12,Home Decor,181.72,12.0,156.14,West
+2022-02-13,Home Decor,456.51,12.0,392.12,
+2022-02-14,Furniture,888.58,3.0,-13.32,Central
+2022-02-15,Furniture,320.51,10.0,189.18,West
+2022-02-16,Clothing,431.74,5.0,,Central
+2022-02-17,Groceries,29.49,7.0,-90.6,Central
+2022-02-18,Home Decor,631.84,9.0,219.6,South
+2022-02-19,Home Decor,345.19,,280.88,South
+2022-02-20,Groceries,792.89,,226.51,Central
+2022-02-21,Home Decor,902.69,10.0,221.57,
+2022-02-22,Clothing,,12.0,366.52,North
+2022-02-23,Home Decor,359.69,7.0,203.63,
+2022-02-24,Home Decor,760.05,10.0,,East
+2022-02-25,Groceries,42.67,11.0,55.39,North
+2022-02-26,Electronics,558.72,,265.78,South
+2022-02-27,Electronics,680.95,2.0,-76.65,South
+2022-02-28,Home Decor,39.2,7.0,,North
+2022-03-01,Groceries,472.11,10.0,310.34,Central
+2022-03-02,Clothing,415.55,14.0,213.1,Central
+2022-03-03,Furniture,543.84,13.0,372.82,North
+2022-03-04,Groceries,410.96,11.0,-56.39,North
+2022-03-05,Electronics,452.25,7.0,3.43,West
+2022-03-06,Clothing,924.44,9.0,201.62,Central
+2022-03-07,Furniture,142.82,7.0,-14.55,East
+2022-03-08,Home Decor,287.96,10.0,-29.33,North
+2022-03-09,Clothing,701.48,14.0,183.5,East
+2022-03-10,Home Decor,549.27,,360.04,North
+2022-03-11,Home Decor,,12.0,-73.83,West
+2022-03-12,Clothing,,12.0,-26.59,West
+2022-03-13,Electronics,882.55,4.0,-89.47,North
+2022-03-14,Furniture,394.4,4.0,112.75,South
+2022-03-15,Groceries,359.2,6.0,216.98,West
+2022-03-16,Clothing,379.04,9.0,57.87,West
+2022-03-17,Electronics,529.84,13.0,133.08,Central
+2022-03-18,Home Decor,191.67,9.0,389.88,West
+2022-03-19,Electronics,113.07,11.0,324.03,North
+2022-03-20,Electronics,908.66,5.0,-80.86,Central
+2022-03-21,Electronics,468.47,9.0,-69.84,East
+2022-03-22,Home Decor,132.1,,97.84,South
+2022-03-23,Home Decor,860.39,6.0,348.98,North
+2022-03-24,Clothing,613.02,8.0,226.48,North
+2022-03-25,Electronics,105.17,10.0,134.76,Central
+2022-03-26,Home Decor,606.89,10.0,122.42,Central
+2022-03-27,Home Decor,614.35,8.0,166.64,South
+2022-03-28,Groceries,213.76,,119.98,West
+2022-03-29,Groceries,556.48,9.0,-55.45,Central
+2022-03-30,Electronics,217.22,10.0,68.04,Central
+2022-03-31,Clothing,230.98,7.0,340.54,West
+2022-04-01,Furniture,372.28,1.0,383.26,Central
+2022-04-02,Clothing,33.37,6.0,298.19,North
+2022-04-03,Electronics,269.05,6.0,69.48,East
+2022-04-04,Groceries,530.18,3.0,-99.33,Central
